@@ -18,7 +18,7 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "fastfashion",
+  title: "NeedleNews",
   description: "The fastest way to stay across fashion news, new drops, and emerging names.",
 };
 

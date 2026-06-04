@@ -290,8 +290,11 @@ export default function Home({ searchParams }: { searchParams: { page?: string }
         <div className="max-w-6xl mx-auto px-6 py-6 md:py-10 text-center">
           <h1 className="font-display font-light italic leading-none tracking-tight
                          text-[3.5rem] sm:text-[5rem] md:text-[7rem] lg:text-[9rem] text-ink">
-            fastfashion
+            NeedleNews
           </h1>
+          <p className="font-body text-[10px] uppercase tracking-[0.3em] text-muted mt-3">
+            your fashion news aggregator
+          </p>
         </div>
       </div>
 
@@ -377,7 +380,7 @@ export default function Home({ searchParams }: { searchParams: { page?: string }
       {/* ── Footer ── */}
       <footer className="border-t border-rule mt-0">
         <div className="max-w-6xl mx-auto px-6 py-6 flex items-center justify-between">
-          <p className="font-display italic text-lg text-muted">fastfashion</p>
+          <p className="font-display italic text-lg text-muted">NeedleNews</p>
           <p className="font-body text-[10px] uppercase tracking-[0.15em] text-muted">
             {news.lastUpdated ? `Last refreshed ${timeAgo(news.lastUpdated)}` : "No data loaded"}
           </p>

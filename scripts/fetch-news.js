@@ -192,7 +192,7 @@ async function fetchOGImage(url) {
     const timeout = setTimeout(() => controller.abort(), 5000);
     const res = await fetch(url, {
       signal: controller.signal,
-      headers: { "User-Agent": "Mozilla/5.0 (compatible; fastfashion-bot/1.0)" },
+      headers: { "User-Agent": "Mozilla/5.0 (compatible; needlenews-bot/1.0)" },
     });
     clearTimeout(timeout);
     if (!res.ok) return null;
@@ -352,7 +352,7 @@ async function fetchAll() {
   console.log(`  ${new Date().toLocaleString()}`);
 }
 
-console.log("\nfastfashion — fetching news...\n");
+console.log("\nNeedleNews — fetching news...\n");
 fetchAll().catch((err) => {
   console.error("Fatal:", err.message);
   process.exit(1);
