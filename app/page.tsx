@@ -300,15 +300,17 @@ export default function Home({ searchParams }: { searchParams: { page?: string }
 
       {/* ── Section nav ── */}
       <div className="border-b border-rule sticky top-0 z-10 bg-cream/95 backdrop-blur-sm">
-        <div className="max-w-6xl mx-auto px-6 flex items-center gap-8 h-10">
+        <div className="max-w-6xl mx-auto px-6 flex items-center gap-4 h-12">
           <a href="#trending"
-             className="font-body text-[10px] uppercase tracking-[0.2em] font-semibold text-ink
-                        hover:text-red transition-colors">
-            Trending
+             className="font-body text-[10px] uppercase tracking-[0.2em] font-semibold
+                        border border-ink text-ink px-3 py-1.5 leading-none
+                        hover:bg-ink hover:text-cream transition-colors">
+            Trending Stories
           </a>
           <a href="#drops"
-             className="font-body text-[10px] uppercase tracking-[0.2em] font-medium text-muted
-                        hover:text-ink transition-colors">
+             className="font-body text-[10px] uppercase tracking-[0.2em] font-semibold
+                        border border-red text-red px-3 py-1.5 leading-none
+                        hover:bg-red hover:text-cream transition-colors">
             New Drops
           </a>
           <div className="flex-1" />
