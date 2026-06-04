@@ -1,0 +1,35 @@
+name: Daily News Fetch
+
+on:
+  schedule:
+    - cron: '0 16 * * *'  # 10am CST (UTC-6) = 16:00 UTC
+  workflow_dispatch:       # allows manual trigger from GitHub UI
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch news
+        run: node scripts/fetch-news.js
+
+      - name: Commit and push
+        run: |
+          git config user.name "fastfashion-bot"
+          git config user.email "bot@fastfashion"
+          git add public/data/
+          git diff --staged --quiet || git commit -m "refresh: $(date +%Y-%m-%d)"
+          git push
