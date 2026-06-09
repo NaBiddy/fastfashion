@@ -353,7 +353,9 @@ async function fetchAll() {
 }
 
 console.log("\nNeedleNews — fetching news...\n");
-fetchAll().catch((err) => {
-  console.error("Fatal:", err.message);
-  process.exit(1);
-});
+fetchAll()
+  .then(() => process.exit(0))
+  .catch((err) => {
+    console.error("Fatal:", err.message);
+    process.exit(1);
+  });
