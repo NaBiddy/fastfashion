@@ -1,0 +1,627 @@
+{
+  "lastUpdated": "2026-11-06T21:09:55.775Z",
+  "trending": [
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "Rag & Bone Pre-Fall 2027",
+      "description": "",
+      "link": "https://www.vogue.com/fashion-shows/pre-fall-2027/rag-bone",
+      "source": "Vogue",
+      "publishedAt": "Fri, 06 Nov 2026 21:09:40 +0000",
+      "image": "https://assets.vogue.com/photos/6aeda00013ba11558a7469da/master/pass/00001-rag-&-bone-pre-fall-2027-credit-brand.jpg",
+      "tag": "runway"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "Ralph Lauren Pre-Fall 2027",
+      "description": "",
+      "link": "https://www.vogue.com/fashion-shows/pre-fall-2027/ralph-lauren",
+      "source": "Vogue",
+      "publishedAt": "Fri, 06 Nov 2026 21:09:40 +0000",
+      "image": "https://assets.vogue.com/photos/6aed9d49d366c630c4d6e3c1/master/pass/00001-ralph-lauren-pre-fall-2027-credit-brand.jpg",
+      "tag": "runway"
+    },
+    {
+      "id": "aHR0cHM6Ly93d2Qu",
+      "title": "Lululemon CEO Heidi O’Neill Fills Key Brand and Strategy Positions for Reset",
+      "description": "The new CEO is fleshing out the senior leadership team she established last month.",
+      "link": "https://wwd.com/business-news/human-resources/lululemon-ceo-reshapes-leadership-for-growth-1239404860/",
+      "source": "WWD",
+      "publishedAt": "Fri, 06 Nov 2026 21:05:00 +0000",
+      "image": "https://wwd.com/wp-content/uploads/2026/04/lululemon_Heidi_ONeill_04-22-26.jpg?crop=0px%2C455px%2C1332px%2C746px&#038;resize=1000%2C563",
+      "tag": "industry"
+    },
+    {
+      "id": "aHR0cHM6Ly93d2Qu",
+      "title": "AI, Cooperation, Space Among Next Frontiers for Fashion and Sustainability",
+      "description": "The two-day, fifth edition of the Venice Sustainable Fashion Forum took a deep dive into how the fashion supply chain can achieve tangible targets amid disruption.",
+      "link": "https://wwd.com/sustainability/business/ai-space-sustainability-2026-venice-fashion-forum-1239404849/",
+      "source": "WWD",
+      "publishedAt": "Fri, 06 Nov 2026 20:54:55 +0000",
+      "image": "https://wwd.com/wp-content/uploads/2025/10/AdobeStock_293987713_ff6ae8.jpeg?w=1000&#038;h=563&#038;crop=1",
+      "tag": "industry"
+    },
+    {
+      "id": "aHR0cHM6Ly93d2Qu",
+      "title": "RetailMeNot Marks 20 Years With Cash Back Event",
+      "description": "The event offers members up to 30 percent cash back at more than 3,500 retailers.",
+      "link": "https://wwd.com/sourcing-journal/industry-news/retailmenot-marks-20-years-with-cash-back-deals-1239404079/",
+      "source": "WWD",
+      "publishedAt": "Fri, 06 Nov 2026 20:52:13 +0000",
+      "image": "https://wwd.com/wp-content/uploads/2026/11/CBD_Lifestyle1.png?w=1000&#038;h=563&#038;crop=1",
+      "tag": "industry"
+    },
+    {
+      "id": "aHR0cHM6Ly9pLWQu",
+      "title": "A Thirst Trap as a Sign of Life",
+      "description": "Why are we so obsessed with being hot online, even when we know better?",
+      "link": "https://i-d.co/article/thirst-trap-essay/",
+      "source": "i-D",
+      "publishedAt": "Fri, 06 Nov 2026 20:43:43 +0000",
+      "image": "https://media.i-d.co/wp-content/uploads/2026/11/SHARE-IMAGE-1-scaled.png",
+      "tag": "editorial"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "Men Are Outspending Women on Botox. Here’s What They’re Asking For",
+      "description": "The modern guy’s grooming routine has broadened beyond face wash and a regular haircut. For some, it now includes a syringe.",
+      "link": "https://www.gq.com/story/men-outspending-women-botox",
+      "source": "GQ",
+      "publishedAt": "Fri, 06 Nov 2026 20:34:32 +0000",
+      "image": "https://media.gq.com/photos/6aeb850d30e36250c7ba9c32/master/pass/male-botox.jpg",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "Yoshitomo Nara’s Big-Headed Girls Have Found Their Forever Designer",
+      "description": "The British designer and Japanese artist's third collection proves why this is a match made in heaven, fueled by mutual respect and artisanal craftsmanship.",
+      "link": "https://www.highsnobiety.com/p/yoshitomo-nara-stella-mccartney/",
+      "source": "Highsnobiety",
+      "publishedAt": "Fri, 06 Nov 2026 20:33:00 GMT",
+      "image": "https://www.highsnobiety.com/static-assets/dato/1793974259-stella-mccartney-yoshitomo-nara-05-1.jpg",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly9pLWQu",
+      "title": "Dollie Kyarn is an Analog Girl in the Digital World",
+      "description": "The photographer, known for her viral portraits of Ethel Cain, uses vintage mediums and her Appalachian surroundings to capture her subjects in intimate and unexpected lights.",
+      "link": "https://i-d.co/article/dollie-kyarn-photographer-interview/",
+      "source": "i-D",
+      "publishedAt": "Fri, 06 Nov 2026 20:28:12 +0000",
+      "image": "https://media.i-d.co/wp-content/uploads/2026/11/SHARE-IMAGE-scaled.png",
+      "tag": "editorial"
+    },
+    {
+      "id": "aHR0cHM6Ly93d2Qu",
+      "title": "EU Pulls Plug on Green Claims Directive",
+      "description": "The measure's withdrawal leaves brands facing murkier greenwashing rules—despite renewed pressure to prove their sustainability claims.",
+      "link": "https://wwd.com/sourcing-journal/sustainability/european-union-green-claims-directive-withdrawal-1239405039/",
+      "source": "WWD",
+      "publishedAt": "Fri, 06 Nov 2026 20:22:33 +0000",
+      "image": "https://wwd.com/wp-content/uploads/2026/11/eucommission.jpg?w=1000&#038;h=563&#038;crop=1",
+      "tag": "industry"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "Your Winter Wardrobe Could Use a Few Quiet Overachievers",
+      "description": "Discover Vuori’s winter wardrobe staples, from premium jackets and versatile pants to comfortable tops that nail the balance between style and comfort.",
+      "link": "https://www.highsnobiety.com/p/vuori-winter-essentials/",
+      "source": "Highsnobiety",
+      "publishedAt": "Fri, 06 Nov 2026 20:10:01 GMT",
+      "image": "https://www.highsnobiety.com/static-assets/dato/1793958589-fa26_look114-115_nyc_ms_00208.png",
+      "tag": null
+    },
+    {
+      "id": "LzIwMjYvMTEvMDYv",
+      "title": "Jude Bellinham’s latest kit is a Calvin Klein one",
+      "description": "This week in fashion the Holiday spirit has awakened with new campaigns, and Harmony Korine has shot not one, but two of them. Elsewhere, Chanel takes us to the seaside and Calvin Klein books Jude Bellinham, a gift that came early.  Calvin Klein has heard your prayers. Jude Belli",
+      "link": "/2026/11/06/jude-bellinhams-latest-kit-is-a-calvin-klein-one/",
+      "source": "Wonderland",
+      "publishedAt": "Fri, 06 Nov 2026 19:53:21 +0000",
+      "image": null,
+      "tag": "editorial"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "18 Best Raincoats for Men 2026, According to GQ Editors",
+      "description": "These stylish, impenetrable toppers will have you praying for storms.",
+      "link": "https://www.gq.com/story/best-raincoats-for-men",
+      "source": "GQ",
+      "publishedAt": "Fri, 06 Nov 2026 19:32:57 +0000",
+      "image": "https://media.gq.com/photos/68dab44f1396b101b8ee2423/master/pass/2508-GQR-August-Lede-RainJackets-3.jpg",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "The 19 Best New Menswear Items to Buy This Week",
+      "description": "The easiest layers, freakiest shorts, hottest accessories, and more—handpicked by GQ editors.",
+      "link": "https://www.gq.com/gallery/best-new-menswear-to-buy-this-week-11-06-26",
+      "source": "GQ",
+      "publishedAt": "Fri, 06 Nov 2026 19:31:23 +0000",
+      "image": "https://media.gq.com/photos/6aee20569bc3a4e247bfc681/master/pass/bnm%20v1.png",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly9oeXBl",
+      "title": "The 'Grand Theft Auto VI' Custom In-Game Cars Have Come to Life",
+      "description": "Summary\nWest Coast Customs helped recreate the in-game custom cars of 'Grand Theft Auto VI'Each car comes with its own backstory, including stats, figures and details'Grand Theft Auto VI' finally arrives on November 19\nGrand Theft Auto VI is finally coming, and one of the best, m",
+      "link": "https://hypebeast.com/2026/11/grand-theft-auto-vi-gta6-real-in-game-cars",
+      "source": "Hypebeast",
+      "publishedAt": "Fri, 06 Nov 2026 19:00:33 +0000",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F06%2Fgrand-theft-auto-vi-gta6-real-in-game-cars-0.jpg?w=800&cbr=1&q=90&fit=max",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "You Don't Have To Buy Anything, But These 32 Current J.Crew Deals Are Giving Early Black Friday",
+      "description": "Shop everything from beautiful sweaters to chic earrings.",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-jcrew-early-black-friday-deals-2026",
+      "source": "Who What Wear",
+      "publishedAt": "Fri, 06 Nov 2026 18:00:00 +0000",
+      "image": "https://cdn.mos.cms.futurecdn.net/jUGJT9fnKhvHdZwd6UEHgA-1920-80.gif",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "How Holly Humberstone built her home away from home in Mexico City",
+      "description": "There’s no place quite like home. Unless you’re the English singer-songwriter Holly Humberstone – in that case, there’s the Éxito Concert Hall in Nápoles, Mexico City. On October 3, Humberstone played her first live show in the Mexican capital, with DHL helping make the performan",
+      "link": "https://www.dazeddigital.com/music/article/71275/1/how-holly-humberstone-built-her-home-away-from-home-in-mexico-city?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=how-holly-humberstone-built-her-home-away-from-home-in-mexico-city",
+      "source": "Dazed",
+      "publishedAt": "2026-11-06T17:55:00.000Z",
+      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/8/1458689.jpg",
+      "tag": "editorial"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "22 Designer Handbags That Will Stand the Test of Time",
+      "description": "The best designer handbags should be wardrobe essentials. From Miu Miu’s Arcadie to Loewe’s Puzzle and Gucci’s Blondie, shop Vogue’s edit.",
+      "link": "https://www.vogue.com/article/best-designer-handbags",
+      "source": "Vogue",
+      "publishedAt": "Fri, 06 Nov 2026 17:20:19 +0000",
+      "image": "https://assets.vogue.com/photos/6a171fc1754933e6a62216e3/master/pass/VogueShopping050720260916.jpg",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "Shop Our Favorite Celebrity Looks of the Week",
+      "description": "Shop the best celebrity street style looks of the week, perfect for the season ahead—just a few simple clicks away.",
+      "link": "https://www.vogue.com/article/best-celebrity-outfits",
+      "source": "Vogue",
+      "publishedAt": "Fri, 06 Nov 2026 17:18:43 +0000",
+      "image": "https://assets.vogue.com/photos/6aecd8f366877eee62d6df49/master/pass/110526_clotw_holding.jpg",
+      "tag": "street style"
+    },
+    {
+      "id": "aHR0cHM6Ly9oeXBl",
+      "title": "Kia’s EV4 GT Clay Concept Is the Ultimate Tribute to Rafael Nadal",
+      "description": "With 63 clay-court titles under his belt, Rafael Nadal’s reputation as the undisputed \"King of Clay\" has brought his legacy beyond tennis to fashion and lifestyle. Now, Korean car brand Kia is honoring the acclaimed player with a one-of-a-kind concept befitting his nickname. The ",
+      "link": "https://hypebeast.com/2026/11/kia-ev4-clay-concept-rafael-nadal-info",
+      "source": "Hypebeast",
+      "publishedAt": "Fri, 06 Nov 2026 17:09:55 +0000",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F05%2Fkia-ev4-clay-concept-rafael-nadal-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly9oeXBl",
+      "title": "Jesse Jo Stark Just Made Your Next Cry In The Car Album",
+      "description": "\"Jesse Jo Stark is for the girls at home drinking a bottle of red, or white if you must, crying to sweet, soft, sad music.\" It's a pretty fitting description of the singer-songwriter, multidisciplinary artist and Chrome Hearts It-girl, whose signature blend of dark romance and me",
+      "link": "https://hypebae.com/2026/11/jesse-jo-stark-interview-muse-album-release-date-information",
+      "source": "Hypebae",
+      "publishedAt": "Fri, 06 Nov 2026 17:00:11 +0000",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fbae.hypebeast.com%2Ffiles%2F2026%2F11%2F05%2FSingle-Image-11.png?w=800&cbr=1&q=90&format=png&fit=max",
+      "tag": null
+    },
+    {
+      "id": "LzIwMjYvMTEvMDYv",
+      "title": "What Makes BINA. Turn The Page?",
+      "description": "From Quentin Tarantino’s Kill Bill to Elaine Kraft’s The Princess of West 72nd Street: South London artist BINA. reveals the film and literary works that have helped her turn her own words into stories worth singing about. For South London singer-songwriter BINA., the freedom tha",
+      "link": "/2026/11/06/what-makes-bina-turn-the-page/",
+      "source": "Wonderland",
+      "publishedAt": "Fri, 06 Nov 2026 17:00:00 +0000",
+      "image": null,
+      "tag": "editorial"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "It Girls Are Wearing These 5 Sunglasses Trends This Fall",
+      "description": "Wayfarer! D-frame! Bug-eyed!",
+      "link": "https://www.whowhatwear.com/fashion/luxury/luxury-sunglasses-trends-fall-2026",
+      "source": "Who What Wear",
+      "publishedAt": "Fri, 06 Nov 2026 16:40:16 +0000",
+      "image": "https://cdn.mos.cms.futurecdn.net/8xjewQ7UDXEAoe45Bvw5JK-1920-80.png",
+      "tag": null
+    },
+    {
+      "id": "LzIwMjYvMTEvMDYv",
+      "title": "Experimental Bliss At C2C Festival",
+      "description": "25 years in, C2C Festival continues its avant-pop and experimental ethos with unmatched curatorial prowess to unite music heads from around the world across a massive four-day audiovisual feast. While the festival’s large Italian contingent is still very much present, it is the f",
+      "link": "/2026/11/06/c2c-festival-2026/",
+      "source": "Wonderland",
+      "publishedAt": "Fri, 06 Nov 2026 16:20:43 +0000",
+      "image": null,
+      "tag": "editorial"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "I'm a Fashion Editor in NYC—Here's What I Actually Wore for a Normal Week",
+      "description": "Outfits that scream fall.",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/fashion-editor-daily-outfits",
+      "source": "Who What Wear",
+      "publishedAt": "Fri, 06 Nov 2026 16:00:00 +0000",
+      "image": "https://cdn.mos.cms.futurecdn.net/t6dRutKU65G7Ekhfy6LE66-1920-80.jpg",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "Jude goes nude for Calvin Klein, plus more of this week’s fashion news",
+      "description": "On October 27, Calvin Klein posted a teaser reel on Instagram with the suspenseful caption: “The next icon. Coming soon.” A quick scroll through the comments, filled with thirsty emojis and Beatles lyrics, left no doubt that the next campaign was none other than this summer’s nat",
+      "link": "https://www.dazeddigital.com/fashion/article/71309/1/jude-bellingham-goes-nude-for-calvin-klein-mariah-carey-gucci-dior?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=jude-goes-nude-for-calvin-klein-plus-more-of-this-week-s-fashion-news",
+      "source": "Dazed",
+      "publishedAt": "2026-11-06T15:37:00.000Z",
+      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/8/1458976.jpg",
+      "tag": "editorial"
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHls",
+      "title": "People who adopt senior dogs usually have 8 rare traits",
+      "description": "The puppy room is where the noise is. Kids pressed against the glass, a volunteer holding up the one with oversized paws, a couple already arguing about names. Down the hall, in a kennel near the back,...\nThe post People who adopt senior dogs usually have 8 rare traits appeared f",
+      "link": "https://stylegirlfriend.com/people-who-adopt-senior-dogs-usually-have-8-rare-traits/",
+      "source": "Style Girlfriend",
+      "publishedAt": "Fri, 06 Nov 2026 15:32:05 +0000",
+      "image": "https://stylegirlfriend.com/wp-content/uploads/2026/11/People-who-adopt-senior-dogs-usually-have-8-rare-traits-t.jpg",
+      "tag": null
+    },
+    {
+      "id": "LzIwMjYvMTEvMDYv",
+      "title": "Wonderlist",
+      "description": "Skepta’s triumphant comeback album, SLAYYYTER is finishing the year on a high, Ecco2k is perplexingly brilliant: it’s Wonderlist! Skepta ft. Central Cee, Jorja Smith – “Broken Hearts” The UK rap goat has returned to reclaim his crown. With the sprawling, eclectic The Fork and Kni",
+      "link": "/2026/11/06/wonderlist-skepta-2/",
+      "source": "Wonderland",
+      "publishedAt": "Fri, 06 Nov 2026 15:25:47 +0000",
+      "image": null,
+      "tag": "editorial"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "Why are there no sexy men in British politics?",
+      "description": "According to an old adage, politics is showbusiness for ugly people. But these days that seems less and less true – at least in the US. All over the world, hearts have been set aflutter by the swaggering charisma and gym-bro physique of Abdul El-Sayed; the sharp tailoring and gen",
+      "link": "https://www.dazeddigital.com/beauty/article/71311/1/why-are-there-no-sexy-men-in-british-politics-zohran-mamdani-abdul-el-sayed?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=why-are-there-no-sexy-men-in-british-politics",
+      "source": "Dazed",
+      "publishedAt": "2026-11-06T15:10:00.000Z",
+      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/8/1458454.jpg",
+      "tag": "editorial"
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHls",
+      "title": "High-IQ people usually admit they were wrong using 7 phrases that disarm everyone",
+      "description": "The argument has been going for ten minutes when one of them stops mid-sentence, looks at the counter, and says, Wait. You’re right. The other one still has three points loaded and nowhere to put them. It’s...\nThe post High-IQ people usually admit they were wrong using 7 phrases ",
+      "link": "https://stylegirlfriend.com/high-iq-people-usually-admit-they-were-wrong-using-7-phrases-that-disarm-everyone/",
+      "source": "Style Girlfriend",
+      "publishedAt": "Fri, 06 Nov 2026 14:36:43 +0000",
+      "image": "https://stylegirlfriend.com/wp-content/uploads/2026/11/High-IQ-people-usually-admit-they-were-wrong-using-7-phrases-that-disarm-everyone-t.jpg",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly9pLWQu",
+      "title": "The Making of Charli xcx’s ‘Music, Fashion, Film’ Tour",
+      "description": "What does a pop music tour look like in 2026? Better yet, what can a pop music tour look like in 2026?This fall, Charli xcx broke down the genre’s arena tour conventions, turning her Music, Fashion, Film show into a cinematic masterpiece. Over the course of two nights in Brooklyn",
+      "link": "https://i-d.co/article/the-making-of-charli-xcxs-music-fashion-film-tour/",
+      "source": "i-D",
+      "publishedAt": "Fri, 06 Nov 2026 14:16:03 +0000",
+      "image": "https://media.i-d.co/wp-content/uploads/2026/11/charli_xcx_tour_guide-scaled.jpg",
+      "tag": "editorial"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "AnOther Loves: Nova Check for November",
+      "description": "Burberry keeps its most recognisable code in check this season – the pattern has long been associated with British weather after all",
+      "link": "https://www.anothermag.com/fashion-beauty/17622/another-loves-nova-check-for-november",
+      "source": "AnOther",
+      "publishedAt": "Fri, 06 Nov 2026 13:22:41 Z",
+      "image": "https://images-prod.anothermag.com/1035/0-419-1035-690/azure/another-prod/480/0/480075.jpg",
+      "tag": "editorial"
+    },
+    {
+      "id": "aHR0cHM6Ly9mdWNr",
+      "title": "What Martine Rose Could Mean for Balenciaga",
+      "description": "She doesn't need to shock us. She needs to make us reconsider what we already understood. \nThe post What Martine Rose Could Mean for Balenciaga appeared first on Fucking Young!.",
+      "link": "https://fuckingyoung.es/what-martine-rose-could-mean-for-balenciaga/",
+      "source": "Fucking Young",
+      "publishedAt": "Fri, 06 Nov 2026 12:35:18 +0000",
+      "image": "https://fuckingyoung.es/wp-content/uploads/2026/11/MARTINE-ROSE.jpg",
+      "tag": "editorial"
+    },
+    {
+      "id": "aHR0cHM6Ly9mdWNr",
+      "title": "LOEWE Perfumes Celebrates The Nightmare Before Christmas with a Limited-Edition Collection",
+      "description": "LOEWE Perfumes revisits Tim Burton’s The Nightmare Before Christmas with a limited-edition collection featuring Moonlight Eau de Parfum and three character-inspired candles.\nThe post LOEWE Perfumes Celebrates The Nightmare Before Christmas with a Limited-Edition Collection appear",
+      "link": "https://fuckingyoung.es/loewe-perfumes-celebrates-the-nightmare-before-christmas-with-a-limited-edition-collection/",
+      "source": "Fucking Young",
+      "publishedAt": "Fri, 06 Nov 2026 10:40:54 +0000",
+      "image": "https://fuckingyoung.es/wp-content/uploads/2026/11/LOEWE_SS27_TIM_BURTON_MAIN_CAMPAIGN_CROPPED_RGB_01_4x5-2.jpg",
+      "tag": "editorial"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "Introducing: The Work Shirt with Buck Mason",
+      "description": "Please note: As mentioned below, the second half of the stock will be coming in December, so please add yourself to the waiting list if you're interested. Click the 'Notify me when available' button on the shop page. This is our first really... > Read more",
+      "link": "https://www.permanentstyle.com/2026/11/introducing-the-work-shirt-with-buck-mason.html",
+      "source": "Permanent Style",
+      "publishedAt": "Fri, 06 Nov 2026 09:00:11 +0000",
+      "image": "https://www.permanentstyle.com/wp-content/uploads/2026/11/E4A8049-150x150.jpg",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly9mdWNr",
+      "title": "Acne Studios Presents Its Holiday Gift Guide",
+      "description": "Discover Acne Studios’ Holiday Gift Guide, featuring a seasonal selection of fashion pieces and accessories for the festive season.\nThe post Acne Studios Presents Its Holiday Gift Guide appeared first on Fucking Young!.",
+      "link": "https://fuckingyoung.es/acne-studios-presents-its-holiday-gift-guide/",
+      "source": "Fucking Young",
+      "publishedAt": "Fri, 06 Nov 2026 02:39:40 +0000",
+      "image": null,
+      "tag": "editorial"
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHls",
+      "title": "People with high IQs and low patience for meetings usually say 9 phrases at work",
+      "description": "11:02. The 11:00 is waiting on one more person. 11:06. The deck goes up and the first slide is a restatement of the invite. 11:14. They’ve worked out what the answer is going to be. 11:31. The...\nThe post People with high IQs and low patience for meetings usually say 9 phrases at",
+      "link": "https://stylegirlfriend.com/people-with-high-iqs-and-low-patience-for-meetings-usually-say-9-phrases-at-work/",
+      "source": "Style Girlfriend",
+      "publishedAt": "Thu, 05 Nov 2026 19:50:52 +0000",
+      "image": "https://stylegirlfriend.com/wp-content/uploads/2026/11/People-with-high-IQs-and-low-patience-for-meetings-usually-say-9-phrases-at-work-t.jpg",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly9pLWQu",
+      "title": "Inside the Home of Hysteric Glamour’s Founder",
+      "description": "In the 40 years since its founding, Nobuhiko Kitamura’s cult brand has helped him gather paraphernalia from legends around the world.",
+      "link": "https://i-d.co/article/hysteric-glamour-nobuhiko-kitamura-tokyo-home/",
+      "source": "i-D",
+      "publishedAt": "Thu, 05 Nov 2026 18:45:31 +0000",
+      "image": "https://media.i-d.co/wp-content/uploads/2026/11/Hysteric-Glamour-X-iD-Magazine-11.jpg",
+      "tag": "editorial"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "Chiwetel Ejiofor: “Characters Have to Take Over a Part of Your Psychology”",
+      "description": "Feted for his magnetic, deep-waters presence, Ejiofor speaks to Hannah Lack about his part in Kane Parsons’ Backrooms, the horror genre, his own psychological loops and the early obsessions that shaped him",
+      "link": "https://www.anothermag.com/another-man/17621/chiwetel-ejiofor-interview-another-man-winter-spring-27",
+      "source": "AnOther",
+      "publishedAt": "Thu, 05 Nov 2026 14:00:00 Z",
+      "image": "https://images-prod.anothermag.com/1693/0-424-1693-1128/azure/another-prod/480/0/480074.jpg",
+      "tag": "editorial"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "Livia Franchini: Rising Tides, Darker Secrets",
+      "description": "Flitting between the 90s art scene and the modern day, Livia Franchini’s High Tide is a reimagining of Mary and Percy Bysshe Shelley’s doomed Italian summer",
+      "link": "https://www.anothermag.com/design-living/17528/a-novel-of-rising-tides-and-darker-secrets",
+      "source": "AnOther",
+      "publishedAt": "Thu, 05 Nov 2026 13:09:55 Z",
+      "image": "https://images-prod.anothermag.com/716/0-127-716-477/azure/another-prod/470/9/479157.png",
+      "tag": "editorial"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "How I came back to the tailoring fold",
+      "description": "By Fred Schlatter. Fred is an American PS reader we’ve known for a while, and enjoyed talking to. Following a recent conversation about his journey in menswear, we invited him to write an article about it, as many aspects of it we felt would... > Read more",
+      "link": "https://www.permanentstyle.com/2026/11/how-i-came-back-to-the-tailoring-fold.html",
+      "source": "Permanent Style",
+      "publishedAt": "Wed, 04 Nov 2026 09:00:28 +0000",
+      "image": "https://www.permanentstyle.com/wp-content/uploads/2026/10/DSC_7824-150x150.jpg",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdz",
+      "title": "25 Best Dress Brands To Know For Every Occasion in 2026 - ELLE",
+      "description": "25 Best Dress Brands To Know For Every Occasion in 2026  ELLE",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vZDN2ODZJcVZHVEE3czdkc3BIS2JoQTIzenFvaFN6TTRzSlFlcGlYZ0JmT0doMUpEMWFueVQ1ZkZ2VFlWd2VQRDlVSm8tZGtzT0d5MVpoWkV2WXp1RlJzYVVUNDRobjZMay1INlV1Njl2bXV4V19r?oc=5",
+      "source": "Small Brand Buzz",
+      "publishedAt": "Wed, 04 Nov 2026 08:00:00 GMT",
+      "image": null,
+      "tag": "emerging"
+    },
+    {
+      "id": "aHR0cHM6Ly9wdXR0",
+      "title": "Inside Track: October 25th – October 31st Edition",
+      "description": "Here are our hand-selected favorites from eBay for this week, plus a heads-up on recommended sales. If you’re a member...\nThe post Inside Track: October 25th – October 31st Edition appeared first on Put This On.",
+      "link": "https://putthison.com/inside-track-october-25th-october-31st-edition-2/",
+      "source": "Put This On",
+      "publishedAt": "Tue, 03 Nov 2026 02:28:34 +0000",
+      "image": "https://putthison.com/wp-content/uploads/2026/11/s-l1a3600-44-copy.jpg",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "A brief history of Parisian tailoring",
+      "description": "By Marcos Eliades and Réginald-Jérome de Mans French tailors have never enjoyed the same recognition as the English or the Italians. England became pre-eminent due to its style setters in royalty and its military preeminence post-Waterloo; t... > Read more",
+      "link": "https://www.permanentstyle.com/2026/11/a-brief-history-of-parisian-tailoring.html",
+      "source": "Permanent Style",
+      "publishedAt": "Mon, 02 Nov 2026 09:00:54 +0000",
+      "image": "https://www.permanentstyle.com/wp-content/uploads/2026/11/IMG_2969-150x150.jpeg",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdz",
+      "title": "26 Winter Fashion Trends to Try, From New Staples to Retro '90s Styles - Teen Vogue",
+      "description": "26 Winter Fashion Trends to Try, From New Staples to Retro '90s Styles  Teen Vogue",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KZjRhRnlHZVJ6REd3MjkxSXQxRnMtRXRHd1dFWUxwdWlJZWdfQUh3LVhIZXRpMjFnQ2NhVFlfSDQtMkJyaTFWQ3QxQmxqd2g0LXE2OHVSV2lWa1dKUFNDdGlHNzU?oc=5",
+      "source": "Emerging Brands",
+      "publishedAt": "Fri, 30 Oct 2026 15:01:53 GMT",
+      "image": null,
+      "tag": "emerging"
+    },
+    {
+      "id": "aHR0cHM6Ly9wdXR0",
+      "title": "Inside Track: October 18th – October 24th Edition",
+      "description": "Here are our hand-selected favorites from eBay for this week, plus a heads-up on recommended sales. If you’re a member...\nThe post Inside Track: October 18th – October 24th Edition appeared first on Put This On.",
+      "link": "https://putthison.com/inside-track-october-18th-october-24th-edition/",
+      "source": "Put This On",
+      "publishedAt": "Tue, 27 Oct 2026 03:18:17 +0000",
+      "image": "https://putthison.com/wp-content/uploads/2026/10/s-l1600-44-copy.jpg",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdz",
+      "title": "22 British Brands You Should Get To Know In 2026 - ELLE",
+      "description": "22 British Brands You Should Get To Know In 2026  ELLE",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54a3NrYm9zSmR6eHVoNmZDZzhwam5Bb2hZdE9LNUU3amNlYzZrNkszWWpRVFp1NGdwZ0diOHFBaDZRcWpCV2w4Vy1WemRoaEt0cGE1VDE1czJjZTE1cU92NzZiam5hOXV2UEEtVW1NMmZ2MTY4OFF0X1NB?oc=5",
+      "source": "Small Brand Buzz",
+      "publishedAt": "Mon, 26 Oct 2026 07:00:00 GMT",
+      "image": null,
+      "tag": "emerging"
+    },
+    {
+      "id": "aHR0cHM6Ly9wdXR0",
+      "title": "Inside Track: October 11th – October 17th Edition",
+      "description": "Here are our hand-selected favorites from eBay for this week, plus a heads-up on recommended sales. If you’re a member...\nThe post Inside Track: October 11th – October 17th Edition appeared first on Put This On.",
+      "link": "https://putthison.com/inside-track-october-11th-october-17th-edition-2/",
+      "source": "Put This On",
+      "publishedAt": "Wed, 21 Oct 2026 06:53:03 +0000",
+      "image": "https://putthison.com/wp-content/uploads/2026/10/s-l1600-38-copy-1.jpg",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdz",
+      "title": "Where to shop in London - CN Traveller",
+      "description": "Where to shop in London  CN Traveller",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHR1ptTmNNZGUxZk9iMDdlZXVCVEZ6b0FKb2xfNDc0bHoxNUI0MjBrWEQwbFBFVXIyWEZxTUlwRVFnRmY2dEhiQWxoblhuVlZIUVA3LTIzYjZCTGF0U1BRa09pVVhJb3lGaUEw?oc=5",
+      "source": "Independent Designers",
+      "publishedAt": "Fri, 16 Oct 2026 07:00:00 GMT",
+      "image": null,
+      "tag": "emerging"
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdz",
+      "title": "6 Key Fall 2026 Fashion Trends to Know This Season - Vogue",
+      "description": "6 Key Fall 2026 Fashion Trends to Know This Season  Vogue",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51MTBuZTdHTm9KV19Cc05wYW5yVEhLbllKZW5WX3NYQ3d4UWFGQUY4NmhUUkNfcGpUWEd0cmpKeUMySVR0cUV3R21SeWNsdTg4SS1CZHhCYWRLNDBfTEs4VmxqcjNTUFNHWmloNlFB?oc=5",
+      "source": "Trend Forecast",
+      "publishedAt": "Mon, 28 Sep 2026 07:00:00 GMT",
+      "image": null,
+      "tag": "trend forecast"
+    }
+  ],
+  "drops": [
+    {
+      "id": "aHR0cHM6Ly9oeXBl",
+      "title": "Joaquin Phoenix Is the Face of Gentle Monster's Intelligent Eyewear",
+      "description": "Summary\nGentle Monster has tapped Joaquin Phoenix to star in its first intelligent eyewear campaign, directed by Jonathan Glazer.The surreal film follows Phoenix through a mysterious hotel where intelligent eyewear becomes a tool for communicating with the unknown.Pre-orders open",
+      "link": "https://hypebeast.com/2026/11/joaquin-phoenix-gentle-monster-intelligent-eyewear",
+      "source": "Hypebeast",
+      "publishedAt": "Fri, 06 Nov 2026 19:47:39 +0000",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F06%2Fgentle-monster-intelligent-eyewear-joaquin-phoenix-campaign-featured-image.jpg?w=800&cbr=1&q=90&fit=max",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly9oeXBl",
+      "title": "Story mfg. and ASICS Invite You to Ramble With the GEL-TRANSCEND FJ",
+      "description": "UK-based eco-conscious fashion label Story mfg. is reuniting with ASICS to introduce a textured, earth-minded spin on the trail-inspired GEL-TRANSCEND FJ. Centered around nostalgia and the art of rambling — wandering, taking your time and embracing freedom — the collaboration bri",
+      "link": "https://hypebae.com/2026/11/story-mfg-asics-gel-transcend-fj-sneaker-campaign-hiking-release-date-where-to-buy",
+      "source": "Hypebae",
+      "publishedAt": "Fri, 06 Nov 2026 19:09:25 +0000",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fbae.hypebeast.com%2Ffiles%2F2026%2F11%2F06%2Fstory-mfg-asics-gel-transcend-fj-sneaker-campaign-hiking-release-date-where-to-buy-ft.jpg?w=800&cbr=1&q=90&fit=max",
+      "tag": "collab"
+    },
+    {
+      "id": "aHR0cHM6Ly9oeXBl",
+      "title": "LOEWE Perfumes Unveils 'The Nightmare Before Christmas' Collection",
+      "description": "LOEWE Perfumes is dropping a new holiday collection inspired by Tim Burton's The Nightmare Before Christmas. The 1993 film was made with handmade puppets and miniature sets, a hands-on process the brand says mirrors its own approach to making. With access to the film's archive, i",
+      "link": "https://hypebae.com/2026/11/loewe-perfumes-tim-burton-the-nightmare-before-christmas-collaboration-collection-where-to-buy",
+      "source": "Hypebae",
+      "publishedAt": "Fri, 06 Nov 2026 16:38:15 +0000",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fbae.hypebeast.com%2Ffiles%2F2026%2F11%2F06%2Floewe-fi.jpg?w=800&cbr=1&q=90&fit=max",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly9oeXBl",
+      "title": "Vaquera and Supreme Just Dropped a Punk-Inspired Collaboration",
+      "description": "This is not a drill. Two major cult names in fashion are joining forces, with Vaquera and Supreme unveiling a collaborative capsule that brings a healthy dose of chaos to streetwear. Blending Supreme's skate-inspired DNA with Vaquera's irreverent, tongue-in-cheek design approach,",
+      "link": "https://hypebae.com/2026/11/vaquera-supreme-collaboration-collection-kiss-print-hoodies-where-to-buy-release-date",
+      "source": "Hypebae",
+      "publishedAt": "Fri, 06 Nov 2026 16:35:56 +0000",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fbae.hypebeast.com%2Ffiles%2F2026%2F11%2F06%2FSplit-340.jpg?w=800&cbr=1&q=90&fit=max",
+      "tag": "collab"
+    },
+    {
+      "id": "aHR0cHM6Ly9mdWNr",
+      "title": "Topologie and Carne Bollente Team Up for an After-Dark Capsule Collection",
+      "description": "Topologie and Carne Bollente join forces for an after-dark capsule featuring graphic bags, playful apparel and accessories.\nThe post Topologie and Carne Bollente Team Up for an After-Dark Capsule Collection appeared first on Fucking Young!.",
+      "link": "https://fuckingyoung.es/topologie-and-carne-bollente-team-up-for-an-after-dark-capsule-collection/",
+      "source": "Fucking Young",
+      "publishedAt": "Fri, 06 Nov 2026 04:50:38 +0000",
+      "image": "https://fuckingyoung.es/wp-content/uploads/2026/11/DSCF2206.jpg",
+      "tag": "editorial"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "Nike Mind 001 WMNS “Summit White”",
+      "description": "The Nike Mind 001 WMNS “Summit White” will be restocking on November 5, 2026, via Nike and select retailers for $95. Check out the photos below…\nThe post Nike Mind 001 WMNS “Summit White” appeared first on Nice Kicks.",
+      "link": "https://www.nicekicks.com/nike-mind-001-wmns-summit-white-hq4309-101/",
+      "source": "Nice Kicks",
+      "publishedAt": "Tue, 03 Nov 2026 16:37:44 +0000",
+      "image": "https://www.nicekicks.com/files/2026/08/hq4309-101-1-e1787072626688.jpg",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly9zbmVh",
+      "title": "The Jordan Son of Mars Puts “Aqua” Coloring In The Spotlight Again",
+      "description": "The Jordan Space Jam effort, now underway with several inline releases before the Air Jordan 11 main event begins, has already accomplished several things. Firstly,...\t\t\n© Sneaker News, 2026. |\nPermalink\nNo comment\ndel.icio.us\nThe post The Jordan Son of Mars Puts \"Aqua\" Coloring ",
+      "link": "https://sneakernews.com/2026/11/06/jordan-son-of-mars-low-black-rio-teal-white-court-purple-580603-006/",
+      "source": "Sneaker News",
+      "publishedAt": "Fri, 06 Nov 2026 21:00:40 +0000",
+      "image": null,
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly9zbmVh",
+      "title": "Cordura Uppers Turn The Nike Zoom Vomero 5 Into A Year-Round Staple",
+      "description": "Already in the winter lane thanks to the Nike Zoom Vomero 5 Roam, Nike’s most popular tech runner is bracing for the cooler months with...\t\t\n© Sneaker News, 2026. |\nPermalink\nNo comment\ndel.icio.us\nThe post Cordura Uppers Turn The Nike Zoom Vomero 5 Into A Year-Round Staple\nSneak",
+      "link": "https://sneakernews.com/2026/11/06/nike-zoom-vomero-5-college-grey-baroque-brown-black-university-red-iq0380-001/",
+      "source": "Sneaker News",
+      "publishedAt": "Fri, 06 Nov 2026 20:00:19 +0000",
+      "image": null,
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "Michael Jordan’ 6 Best Moments in the Air Jordan 6",
+      "description": "Every Air Jordan has its moments. The Air Jordan 6 has the moment: the shoe on Michael Jordan’s feet when he finally won it…\nThe post Michael Jordan’ 6 Best Moments in the Air Jordan 6 appeared first on Nice Kicks.",
+      "link": "https://www.nicekicks.com/michael-jordan-6-best-moments-in-the-air-jordan-6/",
+      "source": "Nice Kicks",
+      "publishedAt": "Fri, 06 Nov 2026 19:45:00 +0000",
+      "image": "https://www.nicekicks.com/files/2026/11/air-jordan-6-lead-infrared.jpg",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly9zbmVh",
+      "title": "Where To Buy The Air Jordan 6 “Infrared”",
+      "description": "The Air Jordan 6 “White Infrared” releases on November 7th in full family sizing: adults for $215, grade school for $155, preschool/little kids’ for $95,...\t\t\n© Sneaker News, 2026. |\nPermalink\nNo comment\ndel.icio.us\nThe post Where To Buy The Air Jordan 6 “Infrared”\nSneaker News. ",
+      "link": "https://sneakernews.com/2026/11/06/air-jordan-6-white-infrared-store-list/",
+      "source": "Sneaker News",
+      "publishedAt": "Fri, 06 Nov 2026 19:00:06 +0000",
+      "image": null,
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly9oeXBl",
+      "title": "The Kith x New Balance 2011 “Monuments” Collection Builds New York Landmarks Into Every Panel",
+      "description": "Name: Kith x New Balance 2011Colorway: Maroon/Atomic Yellow, Amazon/Lilac, Princess Blue/SilverSKU: TBCMSRP: TBCRelease Date: November 9Where to Buy: KithKith and New Balance are returning to the 2011 for the Monuments Collection, a trio of colorways that each salute one of New Y",
+      "link": "https://hypebeast.com/2026/11/kith-new-balance-2011-monuments-collection-release-info",
+      "source": "Hypebeast",
+      "publishedAt": "Fri, 06 Nov 2026 18:00:03 +0000",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F06%2FftKith-New-Balance-2011-Monuments-Collection-Release-Info.jpg?w=800&cbr=1&q=90&fit=max",
+      "tag": "collab"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "Where To Buy the Air Jordan 14 “Forest Green”",
+      "description": "The Air Jordan 14 “Forest Green” is set to release on October 31, 2026, via SNKRS and select retailers for $215. Check out the…\nThe post Where To Buy the Air Jordan 14 “Forest Green” appeared first on Nice Kicks.",
+      "link": "https://www.nicekicks.com/air-jordan-14-forest-green-487471-300/",
+      "source": "Nice Kicks",
+      "publishedAt": "Sat, 31 Oct 2026 13:52:13 +0000",
+      "image": "https://www.nicekicks.com/files/2026/09/air-jordan-14-forest-green-487471-300-october-2026-release-date-info-1.jpg",
+      "tag": null
+    }
+  ]
+}
