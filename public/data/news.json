@@ -1,6 +1,256 @@
 {
-  "lastUpdated": "2026-11-09T23:54:29.577Z",
+  "lastUpdated": "2026-11-10T21:34:10.830Z",
   "trending": [
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "Barbara Tfank Spring 2027 Ready-to-Wear",
+      "description": "",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/barbara-tfank",
+      "source": "Vogue",
+      "publishedAt": "Tue, 10 Nov 2026 21:32:25 +0000",
+      "image": "https://assets.vogue.com/photos/6aee0ebddc789c172444cb0b/master/pass/00001-barbara-tfank-spring-2027-credit-brand.jpg",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly93d2Qu",
+      "title": "Timberland Just Released New Holiday Boots in Premium Waterproof Suede for Men, Women and Kids",
+      "description": "The Premium 6-Inch Waterproof Boots feature suede uppers from historic English tannery C.F. Stead.",
+      "link": "https://wwd.com/footwear-news/sneaker-news/timberland-premium-6-inch-waterproof-cf-stead-suede-boot-holiday-1239409725/",
+      "source": "WWD",
+      "publishedAt": "Tue, 10 Nov 2026 21:30:46 +0000",
+      "image": "https://wwd.com/wp-content/uploads/2026/11/timberland-6-inch-cf-stead-holiday-suede-boot.jpg?w=1000&#038;h=563&#038;crop=1",
+      "tag": "industry"
+    },
+    {
+      "id": "aHR0cHM6Ly93d2Qu",
+      "title": "US Consumers Double Down on Bargain Hunting as Inflation Bites",
+      "description": "Bank of America data shows households—led by squeezed Millennials—are trading down to discount brands or cutting discretionary spending altogether.",
+      "link": "https://wwd.com/sourcing-journal/industry-news/consumers-double-down-on-bargain-hunting-as-inflation-bites-1239409206/",
+      "source": "WWD",
+      "publishedAt": "Tue, 10 Nov 2026 21:28:16 +0000",
+      "image": "https://wwd.com/wp-content/uploads/2024/02/AdobeStock_230610577-1.jpeg?w=1000&#038;h=563&#038;crop=1",
+      "tag": "industry"
+    },
+    {
+      "id": "aHR0cHM6Ly93d2Qu",
+      "title": "The Children’s Place Owes Apparel Suppliers Millions",
+      "description": "Hansae, TNG and other manufacturers are among the unsecured creditors as the retailer seeks a buyer and liquidates inventory.",
+      "link": "https://wwd.com/sourcing-journal/industry-news/childrens-place-bankruptcy-apparel-suppliers-hansae-1239409777/",
+      "source": "WWD",
+      "publishedAt": "Tue, 10 Nov 2026 21:20:04 +0000",
+      "image": "https://wwd.com/wp-content/uploads/2026/11/TheChildrensPlace.jpg?w=1000&#038;h=563&#038;crop=1",
+      "tag": "industry"
+    },
+    {
+      "id": "aHR0cHM6Ly93d2Qu",
+      "title": "Sally Beauty Surpasses Expectations in Q4 Results",
+      "description": "The beauty retailer reported modest sales growth, as it leans into its value proposition.",
+      "link": "https://wwd.com/beauty-industry-news/beauty-features/sally-beauty-surpasses-expectations-q4-results-1239409629/",
+      "source": "WWD",
+      "publishedAt": "Tue, 10 Nov 2026 21:06:34 +0000",
+      "image": "https://wwd.com/wp-content/uploads/2026/03/Sally-Beauty-fest.png?w=1000&#038;h=563&#038;crop=1",
+      "tag": "industry"
+    },
+    {
+      "id": "aHR0cHM6Ly9oeXBl",
+      "title": "Do Ho Suh Will Rebuild His NYC Apartment Inside the Guggenheim",
+      "description": "Summary\nKorean artist Do Ho Suh has announced 'I dream in another language,' his first major museum solo in NYC at the Guggenheim MuseumThe exhibition will feature over 50 pieces, including his famed full-scale house installations, and most significant drawings and works on paper",
+      "link": "https://hypebeast.com/2026/11/do-ho-suh-guggenheim-exhibition-nyc-2027-announcement",
+      "source": "Hypebeast",
+      "publishedAt": "Tue, 10 Nov 2026 20:36:23 +0000",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F10%2Fdo-ho-suh-guggenheim-exhibition-nyc-2027-announcement-0.jpg?w=800&cbr=1&q=90&fit=max",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "Can a Silver Fanatic Be Convinced to Go for Gold?",
+      "description": "Shimmering golds are trending, just in time for the holiday season—but what is a cool-tone devotee to do?",
+      "link": "https://www.vogue.com/article/can-a-silver-fanatic-be-convinced-to-go-for-gold",
+      "source": "Vogue",
+      "publishedAt": "Tue, 10 Nov 2026 20:11:35 +0000",
+      "image": "https://assets.vogue.com/photos/6af1ee21ecc8f6c9de6041f6/master/pass/00-story%20copy-1.jpg",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHls",
+      "title": "Etiquette experts say these 9 Thanksgiving habits are now considered rude",
+      "description": "The doorbell rings at 2:40. Dinner was called for 3:00, the host is still in an apron with flour on one sleeve, and the guest on the porch is beaming, raised to believe that early is polite....\nThe post Etiquette experts say these 9 Thanksgiving habits are now considered rude app",
+      "link": "https://stylegirlfriend.com/etiquette-experts-say-these-9-thanksgiving-habits-are-now-considered-rude/",
+      "source": "Style Girlfriend",
+      "publishedAt": "Tue, 10 Nov 2026 19:55:42 +0000",
+      "image": "https://stylegirlfriend.com/wp-content/uploads/2026/11/Etiquette-experts-say-these-9-Thanksgiving-habits-are-now-considered-rude-t.jpg",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "25 Pages of Veruschka, Photographed by Avedon for Vogue in 1967",
+      "description": "Ahead of the Ron Howard–directed Richard Avedon documentary, we share a 1967 an editorial from the archive that’s worth jumping up and down about.",
+      "link": "https://www.vogue.com/article/25-pages-of-veruschka-photographed-by-avedon-for-vogue-in-1967",
+      "source": "Vogue",
+      "publishedAt": "Tue, 10 Nov 2026 19:30:58 +0000",
+      "image": "https://assets.vogue.com/photos/6af1ef35d7955c225f29d8a5/master/pass/011R%20Vogue_19670301_0149_005_0154_r.jpg",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "Why Blake Griffin Couldn’t Leave Basketball Alone",
+      "description": "In the latest installment of GQ’s weekly interview series One More Question, the NBA legend talks to Zach Baron about his new late-night series The Stepback with Blake Griffin, and returning to basketball as an NBA on Prime commentator.",
+      "link": "https://www.gq.com/story/blake-griffin-one-more-question",
+      "source": "GQ",
+      "publishedAt": "Tue, 10 Nov 2026 19:23:11 +0000",
+      "image": "https://media.gq.com/photos/6af240a326be8de21bf4631c/master/pass/GQ_GQO_12_754_ONE_MORE_QUESTION_BLAKE_GRIFFIN_110926_STILL_OPS.png",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "These Chanel Fine Jewelry Pieces Are Made to Become Future Heirlooms",
+      "description": "Your grandchildren will thank you.",
+      "link": "https://www.whowhatwear.com/fashion/luxury/future-heirlooms-fine-jewelry-chanel",
+      "source": "Who What Wear",
+      "publishedAt": "Tue, 10 Nov 2026 19:12:17 +0000",
+      "image": "https://cdn.mos.cms.futurecdn.net/33nG9g8G2i9KQHMPVoYFfA-1920-80.gif",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "Why This 251-Year-Old Watchmaker Is Suddenly Hotter Than Ever in 2026",
+      "description": "From freshly designed beauties to rare vintage pieces, this classical watchmaker should be on every collector’s radar.",
+      "link": "https://www.gq.com/story/breguet-watch-glossary-11-10-26",
+      "source": "GQ",
+      "publishedAt": "Tue, 10 Nov 2026 19:02:50 +0000",
+      "image": "https://media.gq.com/photos/6af222cccb46ec2ab83f648d/master/pass/BREGUET_CLASSIQUE_SOUSCRIPTION_2026PT_LIFESTYLE_HERO_85x63.5cm_300dpi_sRGB_MASTER_HR.png",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "We’re in a James Bond Fever Dream Now",
+      "description": "Robert Pattinson and Nicholas Hoult as last minute contenders? Harry Styles in talks? As the race to name the next Bond actor closes in on the finish line, the rumor mill is only getting more insane.",
+      "link": "https://www.gq.com/story/james-bond-casting-fever-dream-11-10-2026",
+      "source": "GQ",
+      "publishedAt": "Tue, 10 Nov 2026 18:48:04 +0000",
+      "image": "https://media.gq.com/photos/6af363c63236e85f4cfa548c/master/pass/045-James-Bond-psychosis.gif",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "Forget Blue Jeans, This Fall Is All About Coffee-Colored Denim",
+      "description": "Brown jeans possess the same the versatility of black denim, but with a softer, more luxurious feel—here’s how to style it for fall, the street style way.",
+      "link": "https://www.vogue.com/article/brown-jeans-fall-trend",
+      "source": "Vogue",
+      "publishedAt": "Tue, 10 Nov 2026 18:44:46 +0000",
+      "image": "https://assets.vogue.com/photos/6aea3d1967e44d6d78200d5a/master/pass/2200228289",
+      "tag": "street style"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "Yes, Cyber Month! Shopbop Already Has Huge Designer Discounts, and These 25 Finds Are Beyond",
+      "description": "Up to 50% off!",
+      "link": "https://www.whowhatwear.com/fashion/shopping/shopbop-designer-sale-black-friday-2026",
+      "source": "Who What Wear",
+      "publishedAt": "Tue, 10 Nov 2026 17:59:27 +0000",
+      "image": "https://cdn.mos.cms.futurecdn.net/AL4TxNC6TFaGY5DBodZN4T-1920-80.jpg",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly9oeXBl",
+      "title": "JD Rejects the Old For Something New In 2026 Christmas Ad",
+      "description": "JD’s annual Christmas ad has landed, and as expected, the sportswear retailer has rounded up its international family of creatives, DJs, singers and athletes to celebrate the moment with a fresh perspective.Encompassing the collective’s aspirational outlook, the campaign explores",
+      "link": "https://hypebeast.com/2026/11/jd-christmas-ad-2026-release-info",
+      "source": "Hypebeast",
+      "publishedAt": "Tue, 10 Nov 2026 17:49:46 +0000",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F05%2Fjd-christmas-ad-2026-release-info-0.jpg?w=800&cbr=1&q=90&fit=max",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly9pLWQu",
+      "title": "An Artist Practising WAG Worship",
+      "description": "Glasgow artist Trackie McLeod’s latest London exhibition treats the wives and girlfriends of footballers like Mary Magdalene.",
+      "link": "https://i-d.co/article/trackie-mcleod-artist-wags-exhibition/",
+      "source": "i-D",
+      "publishedAt": "Tue, 10 Nov 2026 17:27:06 +0000",
+      "image": "https://media.i-d.co/wp-content/uploads/2026/11/DSC01276-scaled.jpg",
+      "tag": "editorial"
+    },
+    {
+      "id": "LzIwMjYvMTEvMTAv",
+      "title": "Ambré Is Mastering The Art of Letting Go",
+      "description": "With a little psychedelia, a lot of soul and a few ghosts to lay to rest, Ambré is soundtracking her own coming-of-age story on PEYOTE, a record about finding freedom in letting go. Although New Orleans singer-songwriter Ambré isn’t in the business of making movies, with her new ",
+      "link": "/2026/11/10/interview-ambre/",
+      "source": "Wonderland",
+      "publishedAt": "Tue, 10 Nov 2026 17:00:00 +0000",
+      "image": null,
+      "tag": "editorial"
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHls",
+      "title": "11 chores kids in the 60s & 70s did without being asked that would shock parents today",
+      "description": "Your ten-year-old unloaded the dishwasher last week without being told. You stood in the kitchen doorway a little stunned, and you thought about texting a photo to your sister. At the same age, your own mother or...\nThe post 11 chores kids in the 60s & 70s did without being asked",
+      "link": "https://stylegirlfriend.com/11-chores-kids-in-the-60s-70s-did-without-being-asked-that-would-shock-parents-today/",
+      "source": "Style Girlfriend",
+      "publishedAt": "Tue, 10 Nov 2026 16:26:41 +0000",
+      "image": "https://stylegirlfriend.com/wp-content/uploads/2026/11/11-chores-kids-in-the-60s-70s-did-without-being-asked-that-would-shock-parents-today-t.jpg",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "‘The high lasted for days’: The rise of Vinted addiction",
+      "description": "“I use Vinted in the same way that other people scroll on TikTok or Reels,” Flossie tells me. Often, the 25-year-old finds herself absentmindedly opening the secondhand shopping app even when she’s picked up her phone to do something else. “It’s habitual,” she says. Sometimes she",
+      "link": "https://www.dazeddigital.com/fashion/article/71338/1/high-lasted-for-days-the-rise-of-vinted-addiction-secondhand-shopping-fashion?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-high-lasted-for-days-the-rise-of-vinted-addiction",
+      "source": "Dazed",
+      "publishedAt": "2026-11-10T16:18:00.000Z",
+      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459218.jpg",
+      "tag": "editorial"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "Photos from Las Vegas’s first long-hair beauty contest",
+      "description": "Earlier this year, 26 women from around the world journeyed to Las Vegas’s Sahara Hotel casino for the inaugural “Miss Rapunzel” hair contest. Inside, participants were seen draping their thigh-length tresses over the back of leather-lined banquettes and twisting strands around t",
+      "link": "https://www.dazeddigital.com/beauty/article/71330/1/women-long-hair-miss-rapunzel-crowned-in-las-vegas-photos-francesca-allen?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=photos-from-las-vegas-s-first-long-hair-beauty-contest",
+      "source": "Dazed",
+      "publishedAt": "2026-11-10T16:05:00.000Z",
+      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459205.jpg",
+      "tag": "editorial"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "From Wellies to Nostalgic Styles, These Are the Winter 2026 Shoe Trends to Know",
+      "description": "Finally, shoes you can actually live in.",
+      "link": "https://www.whowhatwear.com/fashion/shoes/winter-2026-shoe-trends",
+      "source": "Who What Wear",
+      "publishedAt": "Tue, 10 Nov 2026 15:11:18 +0000",
+      "image": "https://cdn.mos.cms.futurecdn.net/DkrLJt74HYaiLRktjUAj4E-1920-80.jpg",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly9oeXBl",
+      "title": "New Arrivals From HBX: Paly",
+      "description": "Brand Information: Paly Hollywood is a Los Angeles-based streetwear label founded in 2020 by actor James Franco and designer Kyle Lindgren. Drawing from the hidden side of Hollywood, the brand blends DIY punk with cinematic storytelling featuring hand-distressed, vintage-washed g",
+      "link": "https://hypebeast.com/2026/11/new-arrivals-from-hbx-paly-2",
+      "source": "Hypebeast",
+      "publishedAt": "Tue, 10 Nov 2026 14:05:20 +0000",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2Ffuneral-fakeout-long-sleeve-raglan-multi-product-1-29400445_1794319501.jpg?w=800&cbr=1&q=90&fit=max",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "Rare, never-before-seen polaroids from hip-hop’s golden age",
+      "description": "Nowadays, hip-hop is one of the single biggest genres on earth. In the 50 years since its founding in New York’s Bronx neighborhood in the summer of 1973, the genre has spawned countless scenes across the world, while its pioneering electronic production techniques have since res",
+      "link": "https://www.dazeddigital.com/music/article/71326/1/polaroids-from-hip-hop-s-golden-age-tupac-beyond-the-streets-exhibition-saatchi?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=rare-never-before-seen-polaroids-from-hip-hop-s-golden-age",
+      "source": "Dazed",
+      "publishedAt": "2026-11-10T12:52:00.000Z",
+      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459118.jpeg",
+      "tag": "editorial"
+    },
+    {
+      "id": "aHR0cHM6Ly9wdXR0",
+      "title": "Inside Track: November 1st – November 7th Edition",
+      "description": "Here are our hand-selected favorites from eBay for this week, plus a heads-up on recommended sales. If you’re a member...\nThe post Inside Track: November 1st – November 7th Edition appeared first on Put This On.",
+      "link": "https://putthison.com/inside-track-november-1st-november-7th-edition/",
+      "source": "Put This On",
+      "publishedAt": "Tue, 10 Nov 2026 07:51:24 +0000",
+      "image": "https://putthison.com/wp-content/uploads/2026/11/a3s-l1600-434-copy.jpg",
+      "tag": null
+    },
     {
       "id": "aHR0cHM6Ly9mdWNr",
       "title": "Stone Island Presents Its New Holiday Collection",
@@ -22,176 +272,6 @@
       "tag": "editorial"
     },
     {
-      "id": "aHR0cHM6Ly93d2Qu",
-      "title": "Siena Agudong Is Feeling Through What It Means to Be Truly Kind",
-      "description": "The \"Sidelined\" actress on her new role as Sue Snell in the Amazon series adaptation of Stephen King’s \"Carrie.\"",
-      "link": "https://wwd.com/eye/people/siena-agudong-carrie-sidelined-extraction-1239390151/",
-      "source": "WWD",
-      "publishedAt": "Mon, 09 Nov 2026 23:06:14 +0000",
-      "image": "https://wwd.com/wp-content/uploads/2026/10/Siena-Agudong-ctsy-03.jpg?crop=0px%2C68px%2C3309px%2C1851px&#038;resize=1000%2C563",
-      "tag": "industry"
-    },
-    {
-      "id": "aHR0cHM6Ly93d2Qu",
-      "title": "Google Thinks It Knows What Fashion News You Want to Read — Now You Can Have a Say, Too",
-      "description": "From major designer shake-ups to the latest runway collections, here's how to see more of WWD's fashion coverage on Google.",
-      "link": "https://wwd.com/fashion-news/fashion-scoops/wwd-google-preferred-sources-1239408083/",
-      "source": "WWD",
-      "publishedAt": "Mon, 09 Nov 2026 22:56:08 +0000",
-      "image": "https://wwd.com/wp-content/uploads/2026/06/google.jpg?w=1000&#038;h=563&#038;crop=1",
-      "tag": "runway"
-    },
-    {
-      "id": "aHR0cHM6Ly93d2Qu",
-      "title": "Paris Texas, Alo and More Brands Get Ready for Winter With Furry Shoe Styles",
-      "description": "From stiletto boots to slip-on loafers, furry footwear is taking over this season.",
-      "link": "https://wwd.com/footwear-news/shoe-trends/winter-2026-furry-shoes-paris-texas-alo-1239407898/",
-      "source": "WWD",
-      "publishedAt": "Mon, 09 Nov 2026 22:35:08 +0000",
-      "image": "https://wwd.com/wp-content/uploads/2026/11/Margaux-boot-Paris-Texas-boot-Alo-sneaker-mule.jpg?w=1000&#038;h=563&#038;crop=1",
-      "tag": "industry"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cu",
-      "title": "Overnight, This Under-$1000 Bag Brand Became Every Fashion Insider's Favorite",
-      "description": "The Jack and Magazine totes are the two most popular styles.",
-      "link": "https://www.whowhatwear.com/fashion/handbags/parker-thatch-handbags-2026",
-      "source": "Who What Wear",
-      "publishedAt": "Mon, 09 Nov 2026 22:30:00 +0000",
-      "image": "https://cdn.mos.cms.futurecdn.net/sf8pMrcvFYZ9hF32Hrinb3-1920-80.jpg",
-      "tag": null
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cu",
-      "title": "In ‘Possible Love,’ Jeon Do-yeon Delivers the Year’s Most Shattering Performance. Can It Take Her to the Oscars?",
-      "description": "Nearly two decades after her historic Cannes win, the South Korean powerhouse talks to Vogue about reuniting with auteur Lee Chang-dong for Netflix’s devastating ‘Possible Love.’",
-      "link": "https://www.vogue.com/article/jeon-do-yeon-possible-love-interview",
-      "source": "Vogue",
-      "publishedAt": "Mon, 09 Nov 2026 21:55:16 +0000",
-      "image": "https://assets.vogue.com/photos/6af1e0d5fc6a8ccc4d369281/master/pass/Possible%20Love_still_R23_AAA08990_RT1.jpg",
-      "tag": null
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cu",
-      "title": "The 73 Best-Ever Celebrity Fits From Every GQ Men of the Year Party",
-      "description": "From Denzel Washington and Jacob Elordi to Rihanna and Bill Nye (!), these are the biggest, swerviest, most unforgettable ensembles from menswear’s biggest night through the ’90s, 2000s, and today.",
-      "link": "https://www.gq.com/gallery/gq-men-of-the-year-party-best-red-carpet-style",
-      "source": "GQ",
-      "publishedAt": "Mon, 09 Nov 2026 21:15:39 +0000",
-      "image": "https://media.gq.com/photos/672917dd2bb82163f48ae00a/master/pass/moty-fits3%20copy.jpg",
-      "tag": null
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cu",
-      "title": "The Fall Winter 2026 Fashion Trends to Know and Shop Now",
-      "description": "The top six trends of the fall winter 2026 season—which range from modern suiting codes to 1920s Art Deco evening wear—are designed for work and play. Shop them now.",
-      "link": "https://www.vogue.com/article/fall-winter-2026-fashion-trends",
-      "source": "Vogue",
-      "publishedAt": "Mon, 09 Nov 2026 21:08:17 +0000",
-      "image": "https://assets.vogue.com/photos/6a55325385415eee2f879431/master/pass/v2%20fashion%20trends%20lead%20holding.jpg",
-      "tag": "runway"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cu",
-      "title": "Inside Designer Carla Fernández’s Vibrant Mexico City Home, Full of Indigenous Textiles and Art",
-      "description": "Take an exclusive look into Carla Fernández’s artful home, featured in the book “Mesoamerican Modern” by Su Wu.",
-      "link": "https://www.vogue.com/article/mesoamerican-modern-su-wu-carla-fernandez-home",
-      "source": "Vogue",
-      "publishedAt": "Mon, 09 Nov 2026 21:01:03 +0000",
-      "image": "https://assets.vogue.com/photos/6aecf2ac3b08cd2413ac4b45/master/pass/252-3%20Casa%20Flora.jpg",
-      "tag": null
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cu",
-      "title": "Mocha Brown Hair-Color Season Is Here—and It’s Universally Flattering",
-      "description": "Meet the low-maintenance, celebrity-approved hair-color trend poised to dominate this winter.",
-      "link": "https://www.vogue.com/article/mocha-brown-hair-color-fall-winter-2026",
-      "source": "Vogue",
-      "publishedAt": "Mon, 09 Nov 2026 21:00:00 +0000",
-      "image": "https://assets.vogue.com/photos/6af207e026044077f9f6b1d9/master/pass/2276360413",
-      "tag": null
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cu",
-      "title": "It Girls in Their 30s Aren't Wearing Basic Puffers This Year—They're Choosing This Trendier Style",
-      "description": "No utilitarian puffer jackets for JLaw.",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/fancy-puffer-jacket-trend-jennifer-lawrence",
-      "source": "Who What Wear",
-      "publishedAt": "Mon, 09 Nov 2026 20:44:25 +0000",
-      "image": "https://cdn.mos.cms.futurecdn.net/RyKVgEzRXLSbzQgGXHBq75-1920-80.jpg",
-      "tag": null
-    },
-    {
-      "id": "aHR0cHM6Ly9oeXBl",
-      "title": "Nike and Veneda Carter Give Us a Lift With the Ovolo 2.0",
-      "description": "Nike is digging deep into its early 2000s vault, and who better to champion the resurrection than stylist and designer Veneda Carter? Teased on feet by the Danish tastemaker, the upcoming Nike Ovolo 2.0 revives one of the Swoosh's most divisive yet visionary silhouettes: the hybr",
-      "link": "https://hypebae.com/2026/11/nike-veneda-carter-ovolo-2-0-sneaker-collab-heel-release-date-where-to-buy",
-      "source": "Hypebae",
-      "publishedAt": "Mon, 09 Nov 2026 20:20:51 +0000",
-      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fbae.hypebeast.com%2Ffiles%2F2026%2F11%2F09%2Fnike-veneda-carter-ovolo-2-0-sneaker-collab-heel-release-date-where-to-buy-ft.jpg?w=800&cbr=1&q=90&fit=max",
-      "tag": null
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cu",
-      "title": "How to Avoid Sports Injuries in Your 30s, 40s, and Beyond",
-      "description": "You may not be able to halt the march of time, but you can slow its toll on your body. Experts share the best training techniques to keep you off the bench.",
-      "link": "https://www.gq.com/story/how-to-avoid-sports-injuries-in-your-30s-40s",
-      "source": "GQ",
-      "publishedAt": "Mon, 09 Nov 2026 18:43:30 +0000",
-      "image": "https://media.gq.com/photos/6af20b1b36a755b6aeaa22e4/master/pass/016-Football-injury.jpg",
-      "tag": null
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cu",
-      "title": "The 15 Best Chelsea Boots for Men in 2026: Never Go Out of Style",
-      "description": "Flip-flops might flop and Sambas might slide out of favor, but the sleek leather shoes favored by rock gods and regular guys alike will always look good.",
-      "link": "https://www.gq.com/story/the-best-chelsea-boots-to-wear-with-everything",
-      "source": "GQ",
-      "publishedAt": "Mon, 09 Nov 2026 18:25:23 +0000",
-      "image": "https://media.gq.com/photos/671bef73f9acb736922c1cdc/master/pass/2410-GQR-October-ChelseaBoots-1198-2.jpg",
-      "tag": null
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cu",
-      "title": "How Jennifer Zuccarini of Fleur du Mal Revolutionized Lingerie Styling Beyond the Bedroom",
-      "description": "Hear her story here.",
-      "link": "https://www.whowhatwear.com/living/career/second-life-podcast-jennifer-zuccarini",
-      "source": "Who What Wear",
-      "publishedAt": "Mon, 09 Nov 2026 18:17:29 +0000",
-      "image": "https://cdn.mos.cms.futurecdn.net/DSmopzWoFfHJajxH56xV9A-1920-80.jpg",
-      "tag": null
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cu",
-      "title": "13 Best Bathrobes for Men 2026: Reviewed by GQ",
-      "description": "Men will literally swaddle themselves in French terry instead of going to therapy.",
-      "link": "https://www.gq.com/gallery/best-mens-robes",
-      "source": "GQ",
-      "publishedAt": "Mon, 09 Nov 2026 18:15:07 +0000",
-      "image": "https://media.gq.com/photos/6719098f1ae0f83623b75177/master/pass/2410-GQR-Robes-Lede-3.jpg",
-      "tag": null
-    },
-    {
-      "id": "aHR0cHM6Ly9oeXBl",
-      "title": "Hollywood Shockwave: James Gunn and Peter Safran Abruptly Step Down as DC Studios Heads",
-      "description": "Summary\nJames Gunn and Peter Safran are stepping down as co-presidents of DC Studios after four years leading the comic book divisionMarvel veteran Jeremy Latcham has been named president and chief creative officer to lead all film television and animationGunn and Safran will ret",
-      "link": "https://hypebeast.com/2026/11/james-gunn-peter-safran-abruptly-step-down-dc-studios-heads-marvel-veteran-jeremy-latchman-takes-over-news",
-      "source": "Hypebeast",
-      "publishedAt": "Mon, 09 Nov 2026 17:38:52 +0000",
-      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F09%2Fjames-gunn-peter-safran-abruptly-step-down-dc-studios-heads-marvel-veteran-jeremy-latchman-takes-over-news-000.jpg?w=800&cbr=1&q=90&fit=max",
-      "tag": null
-    },
-    {
-      "id": "aHR0cHM6Ly9oeXBl",
-      "title": "London's Design Museum Surveys Contemporary Black Design in New Show",
-      "description": "London’s Design Museum has unveiled an exhibition that charts the work of 16 Black designers, marking one of the most extensive exhibitions on contemporary Black design ever held in the UK.Guest-curated by author and journalist Charlene Prempeh, The Nue Black Aesthetic brings tog",
-      "link": "https://hypebeast.com/2026/11/nue-black-aesthetic-design-museum-charlene-prempeh-exhibition",
-      "source": "Hypebeast",
-      "publishedAt": "Mon, 09 Nov 2026 17:25:55 +0000",
-      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F09%2Fnue-black-aesthetic-design-museum-charlene-prempeh-exhibition-13.jpg?w=800&cbr=1&q=90&fit=max",
-      "tag": null
-    },
-    {
       "id": "aHR0cHM6Ly9zdHls",
       "title": "7 phrases that people with highly advanced brains usually say that confuse average minds",
       "description": "You’ve probably worked with one. They wear the same thing every day, eat the same lunch, and when you ask how the weekend went, they answer with a question about yours. Nothing they say is complicated. The...\nThe post 7 phrases that people with highly advanced brains usually say ",
@@ -202,36 +282,6 @@
       "tag": null
     },
     {
-      "id": "aHR0cHM6Ly9oeXBl",
-      "title": "Your Definitive Guide to Luxury Fashion's Game of Creative Director Musical Chairs",
-      "description": "After months of updates from Donatella Versace, Demna, and Jonathan Anderson, it's safe to say the term \"luxury slowdown\" doesn't describe the recent slew of creative director announcements. With that in mind, it's sort of becoming impossible to keep up with who's left what brand",
-      "link": "https://hypebae.com/2025/3/luxury-creative-directors-jonathan-anderson-loewe-announcements",
-      "source": "Hypebae",
-      "publishedAt": "Mon, 09 Nov 2026 16:30:45 +0000",
-      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fbae.hypebeast.com%2Ffiles%2F2026%2F10%2F09%2Fimgi_2_https3A2F2Fbae.hypebeast.com2Ffiles2F20212F052Fthe-face-issue-007-summer-sport-special-nike-martine-rose-the-lost-lionesses-tee-t-shirt-collaboration-0.jpg?w=800&cbr=1&q=90&fit=max",
-      "tag": null
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHls",
-      "title": "People who constantly replay conversations in their heads often fall into these 7 thinking traps — and psychologists explain how to interrupt them",
-      "description": "The dinner ended two hours ago. You’re in bed, and you’re back at the table. Not the whole table. One half-second of it, the pause after you said the thing about her new job, when her smile...\nThe post People who constantly replay conversations in their heads often fall into thes",
-      "link": "https://stylegirlfriend.com/people-who-constantly-replay-conversations-in-their-heads-often-fall-into-these-7-thinking-traps-and-psychologists-explain-how-to-interrupt-them/",
-      "source": "Style Girlfriend",
-      "publishedAt": "Mon, 09 Nov 2026 16:10:44 +0000",
-      "image": "https://stylegirlfriend.com/wp-content/uploads/2026/11/People-who-constantly-replay-conversations-in-their-heads-often-fall-into-these-7-thinking-traps-—-and-psychologists-explain-how-to-interrupt-them-t.jpg",
-      "tag": null
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cu",
-      "title": "The UK government is coming for your sexual fantasies",
-      "description": "Over the weekend, a significant chunk of the British public technically became sex offenders. Most without getting out of bed. Some, perhaps, without even realising it. \n\r\nOn November 6, new additions to the Crime and Policing Act 2026 came into effect in England and Wales, makin",
-      "link": "https://www.dazeddigital.com/life-culture/article/71322/1/porn-law-uk-choking-suffocation-incest-pornography-ban-face-sitting-britain?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-uk-government-is-coming-for-your-sexual-fantasies",
-      "source": "Dazed",
-      "publishedAt": "2026-11-09T15:21:00.000Z",
-      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459191.jpg",
-      "tag": "editorial"
-    },
-    {
       "id": "LzIwMjYvMTEvMDkv",
       "title": "Delilah Montagu Is Done Chasing Perfection",
       "description": "As she prepares to close her three-part EP series, the London-born, LA-based singer-songwriter talks letting go, protecting her peace and finding her way back to the little girl at the piano. There’s a particular kind of bravery in leaving a song alone. For Delilah Montagu, a sel",
@@ -239,16 +289,6 @@
       "source": "Wonderland",
       "publishedAt": "Mon, 09 Nov 2026 15:18:13 +0000",
       "image": null,
-      "tag": "editorial"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cu",
-      "title": "From Tokyo to the US: How -196 is bringing a taste of Japan stateside",
-      "description": "From X-Pop to Sonny Angels to matcha, products of Japanese culture, known for its respect for craftsmanship and process, have seeped into global popular culture in recent years. This has been especially felt in the United States, where, in New York specifically, there arehellip;\n",
-      "link": "https://www.dazeddigital.com/life-culture/article/71313/1/japan-s-next-big-thing-is-already-stateside-196-vodka-seltzer?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=from-tokyo-to-the-us-how-196-is-bringing-a-taste-of-japan-stateside",
-      "source": "Dazed",
-      "publishedAt": "2026-11-09T14:48:00.000Z",
-      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/9/1459042.png",
       "tag": "editorial"
     },
     {
@@ -292,36 +332,6 @@
       "tag": null
     },
     {
-      "id": "aHR0cHM6Ly9mdWNr",
-      "title": "BOYHOOD",
-      "description": "Grego Belau photographed by Jenn Werner and styled by Izabela Macoch, under the creative direction of Alex Bielicki, in an exclusive editorial for Fucking Young! Online.\nThe post BOYHOOD appeared first on Fucking Young!.",
-      "link": "https://fuckingyoung.es/boyhood-6/",
-      "source": "Fucking Young",
-      "publishedAt": "Mon, 09 Nov 2026 03:22:16 +0000",
-      "image": "https://fuckingyoung.es/wp-content/uploads/2026/11/Grego_874.jpg",
-      "tag": "editorial"
-    },
-    {
-      "id": "aHR0cHM6Ly9mdWNr",
-      "title": "Richie Culver Explores Memory, Loss, and Club Culture in “The Persistence of Things”",
-      "description": "British artist Richie Culver explores the relationship between memory, nostalgia, and loss, transforming everyday objects into deeply personal works of art.\nThe post Richie Culver Explores Memory, Loss, and Club Culture in “The Persistence of Things” appeared first on Fucking You",
-      "link": "https://fuckingyoung.es/richie-culver-explores-memory-loss-and-club-culture-in-the-persistence-of-things/",
-      "source": "Fucking Young",
-      "publishedAt": "Mon, 09 Nov 2026 01:16:20 +0000",
-      "image": "https://fuckingyoung.es/wp-content/uploads/2026/11/IMG_0031.jpg",
-      "tag": "editorial"
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHls",
-      "title": "People who were called gifted as children sometimes develop these 7 habits that quietly undermine their success as adults",
-      "description": "Third grade. They finish the worksheet before the teacher is done handing it out, and she gives them the look. Not annoyed. Impressed, actually. You’re so smart. They hear it again from a parent at dinner, from...\nThe post People who were called gifted as children sometimes devel",
-      "link": "https://stylegirlfriend.com/people-who-were-called-gifted-as-children-sometimes-develop-these-7-habits-that-quietly-undermine-their-success-as-adults/",
-      "source": "Style Girlfriend",
-      "publishedAt": "Sun, 08 Nov 2026 19:08:00 +0000",
-      "image": "https://stylegirlfriend.com/wp-content/uploads/2026/11/People-who-were-called-gifted-as-children-sometimes-develop-these-7-habits-that-quietly-undermine-their-success-as-adults-t.jpg",
-      "tag": null
-    },
-    {
       "id": "aHR0cHM6Ly9pLWQu",
       "title": "Matt Cooper’s Mind Games",
       "description": "For his next trick, the mentalist tells all.",
@@ -342,16 +352,6 @@
       "tag": "editorial"
     },
     {
-      "id": "aHR0cHM6Ly9pLWQu",
-      "title": "Dollie Kyarn is an Analog Girl in the Digital World",
-      "description": "The photographer, known for her viral portraits of Ethel Cain, uses vintage mediums and her Appalachian surroundings to capture her subjects in intimate and unexpected lights.",
-      "link": "https://i-d.co/article/dollie-kyarn-photographer-interview/",
-      "source": "i-D",
-      "publishedAt": "Fri, 06 Nov 2026 20:28:12 +0000",
-      "image": "https://media.i-d.co/wp-content/uploads/2026/11/SHARE-IMAGE-scaled.png",
-      "tag": "editorial"
-    },
-    {
       "id": "LzIwMjYvMTEvMDYv",
       "title": "Jude Bellingham’s latest kit is a Calvin Klein one",
       "description": "This week in fashion the Holiday spirit has awakened with new campaigns, and Harmony Korine has shot not one, but two of them. Elsewhere, Chanel takes us to the seaside and Calvin Klein books Jude Bellingham, a gift that came early.  Calvin Klein has heard your prayers. Jude Bell",
@@ -359,26 +359,6 @@
       "source": "Wonderland",
       "publishedAt": "Fri, 06 Nov 2026 19:53:21 +0000",
       "image": null,
-      "tag": "editorial"
-    },
-    {
-      "id": "LzIwMjYvMTEvMDYv",
-      "title": "What Makes BINA. Turn The Page?",
-      "description": "From Quentin Tarantino’s Kill Bill to Elaine Kraf’s The Princess of West 72nd Street: South London artist BINA. reveals the film and literary works that have helped her turn her own words into stories worth singing about. For South London singer-songwriter BINA., the freedom that",
-      "link": "/2026/11/06/what-makes-bina-turn-the-page/",
-      "source": "Wonderland",
-      "publishedAt": "Fri, 06 Nov 2026 17:00:00 +0000",
-      "image": null,
-      "tag": "editorial"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cu",
-      "title": "AnOther Loves: Nova Check for November",
-      "description": "Burberry keeps its most recognisable code in check this season – the pattern has long been associated with British weather after all",
-      "link": "https://www.anothermag.com/fashion-beauty/17622/another-loves-nova-check-for-november",
-      "source": "AnOther",
-      "publishedAt": "Fri, 06 Nov 2026 13:22:41 Z",
-      "image": "https://images-prod.anothermag.com/1035/0-419-1035-690/azure/another-prod/480/0/480075.jpg",
       "tag": "editorial"
     },
     {
@@ -452,22 +432,22 @@
       "tag": "emerging"
     },
     {
-      "id": "aHR0cHM6Ly9wdXR0",
-      "title": "Inside Track: October 11th – October 17th Edition",
-      "description": "Here are our hand-selected favorites from eBay for this week, plus a heads-up on recommended sales. If you’re a member...\nThe post Inside Track: October 11th – October 17th Edition appeared first on Put This On.",
-      "link": "https://putthison.com/inside-track-october-11th-october-17th-edition-2/",
-      "source": "Put This On",
-      "publishedAt": "Wed, 21 Oct 2026 06:53:03 +0000",
-      "image": "https://putthison.com/wp-content/uploads/2026/10/s-l1600-38-copy-1.jpg",
-      "tag": null
-    },
-    {
       "id": "aHR0cHM6Ly9uZXdz",
       "title": "Where to shop in London - CN Traveller",
       "description": "Where to shop in London  CN Traveller",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHR1ptTmNNZGUxZk9iMDdlZXVCVEZ6b0FKb2xfNDc0bHoxNUI0MjBrWEQwbFBFVXIyWEZxTUlwRVFnRmY2dEhiQWxoblhuVlZIUVA3LTIzYjZCTGF0U1BRa09pVVhJb3lGaUEw?oc=5",
       "source": "Independent Designers",
       "publishedAt": "Fri, 16 Oct 2026 07:00:00 GMT",
+      "image": null,
+      "tag": "emerging"
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdz",
+      "title": "How Independent Fashion Designers Can Close the Gap Between Visibility and Viability - The Business of Fashion",
+      "description": "How Independent Fashion Designers Can Close the Gap Between Visibility and Viability  The Business of Fashion",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRXZjWTA2SGRUSUIweXYyS1RzU2lPYUloRHZnTDlNOFFsTDBFZ09jMmZXazlkSU8zSlFnS0Z1WEFEcEdlWGNsRTE5ZHNZbXBTNXd1ME51VE5UbHU3S1hVZ3lvRkxQRkl0YjJyZWM5UXVZc292al9lSDd0Z0dfbVlxNFdDM1A2RmE3V1U2N0tQWDdLLWxDVGNjSGlfWnNEOEdrRmR2NXhPZ1owalRablA3STY0RWc5dk4yY2V5aGhvZzZwdTRqcUxqSVhJdzNjZ1U0V0lFRg?oc=5",
+      "source": "Independent Designers",
+      "publishedAt": "Thu, 17 Sep 2026 07:00:00 GMT",
       "image": null,
       "tag": "emerging"
     },
@@ -486,7 +466,7 @@
       "title": "You Need To Know These 7 Rising Brands At New York Fashion Week - The Zoe Report",
       "description": "You Need To Know These 7 Rising Brands At New York Fashion Week  The Zoe Report",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92UVFNemtIWGgwMFFzMVE2OEh6SmNKYjY0UzFxaTdhTGpzVFRmV1l2STgtSW4yVC1yaDY4QlItMFNPck9aNDA1dEJsWk9jWDVYaWU0X3lCeTV1QTd2RElvRERzOGRtQ0JoM0phLTFjdXI?oc=5",
-      "source": "Independent Designers",
+      "source": "Rising Designers",
       "publishedAt": "Wed, 09 Sep 2026 07:00:00 GMT",
       "image": null,
       "tag": "emerging"
@@ -500,57 +480,117 @@
       "publishedAt": "Tue, 08 Sep 2026 07:00:00 GMT",
       "image": null,
       "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdz",
+      "title": "11 Fall Fashion Trends GQ Editors Expect to See Everywhere - GQ",
+      "description": "11 Fall Fashion Trends GQ Editors Expect to See Everywhere  GQ",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DUkpzMnNJVmtCbU1sY1pubFBPeEtFZXJJd1I3S0Y3cUpzWTFSX29GSFZPRUdzSVFKWUVPcUVBRFI3WHQ0NzFEa0s2bWhVTVlJOHpVUzZiWVdVR0wwLWxPeTBiUG1VdnFQbGgwcVZn?oc=5",
+      "source": "Next Trend",
+      "publishedAt": "Tue, 08 Sep 2026 07:00:00 GMT",
+      "image": null,
+      "tag": "trend forecast"
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdz",
+      "title": "The Fall Fashion Forecast: 5 Trends to to Be Inspired by this Season - Vogue",
+      "description": "The Fall Fashion Forecast: 5 Trends to to Be Inspired by this Season  Vogue",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iRG5RQlZvQVJldXhNdWhHWld0UkkxWnMyQW8tMklnUTMyWUZmMXRRM19IVmMyU2lZRnVvQXlVTHU5Uk9xMW1JQU5aTE1qemtaN3dPaVlZdk10NHhidVFFUTl2ZlpLWU0?oc=5",
+      "source": "Trend Forecast",
+      "publishedAt": "Tue, 08 Sep 2026 07:00:00 GMT",
+      "image": null,
+      "tag": "trend forecast"
     }
   ],
   "drops": [
     {
-      "id": "aHR0cHM6Ly93d3cu",
-      "title": "Vans' Slip-on Is Even Cooler as a Puffer Snow Boot",
-      "description": "Vans releases a Mid-Slip Puff shoe, a padded winter model based on the classic Slip-On skate shoe.",
-      "link": "https://www.highsnobiety.com/p/vans-mid-slip-puff-shoe/",
-      "source": "Highsnobiety",
-      "publishedAt": "Mon, 09 Nov 2026 22:17:24 GMT",
-      "image": "https://www.highsnobiety.com/static-assets/dato/1794248703-vans-mid-slip-puff-shoe-0.jpg",
-      "tag": null
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cu",
-      "title": "adidas’ Cute “UGG” Boots Were Skate Shoes in Their Past Life",
-      "description": "adidas releases new Campus 00s Winter boots, which have even more UGG flavor than the last. Here's everything on the cozy-cute drop.",
-      "link": "https://www.highsnobiety.com/p/adidas-campus-00s-winter/",
-      "source": "Highsnobiety",
-      "publishedAt": "Mon, 09 Nov 2026 22:15:51 GMT",
-      "image": "https://www.highsnobiety.com/static-assets/dato/1794248315-adidas-campus-00s-winter-0.jpg",
-      "tag": null
-    },
-    {
       "id": "aHR0cHM6Ly9oeXBl",
-      "title": "Melitta Baumeister and Nike Reimagine Sportswear as Wearable Sculpture",
-      "description": "Nike has teamed up with avant-garde designer Melitta Baumeister for a head-to-toe capsule that blurs the lines between industrial design, ceramics and streetwear. Known for her exaggerated forms and craftsmanship, Baumeister brings an artisanal touch to the swoosh, personally scu",
-      "link": "https://hypebae.com/2026/11/melitta-baumeister-nike-rift-rocker-tabi-sneaker-collab-info-where-to-buy",
+      "title": "Halfdays and Guest in Residence's New Collab is Alpine Heaven",
+      "description": "Halfdays and Guest In Residence have joined forces for a winter capsule collection, merging high-altitude technical performance with luxury knitwear. The partnership brings together two female-led labels with distinct takes on cold-weather dressing: Halfdays, the outdoor brand co",
+      "link": "https://hypebae.com/2026/11/halfdays-guest-in-residence-ski-skiwear-knitwear-collab-info-where-to-buy",
       "source": "Hypebae",
-      "publishedAt": "Mon, 09 Nov 2026 19:33:22 +0000",
-      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fbae.hypebeast.com%2Ffiles%2F2026%2F11%2F09%2Fmelitta-baumeister-nike-rift-rocker-tabi-sneaker-collab-info-where-to-buy-ft.jpg?w=800&cbr=1&q=90&fit=max",
-      "tag": null
-    },
-    {
-      "id": "aHR0cHM6Ly9oeXBl",
-      "title": "You Can Now Buy The Rugs You've Seen Inside Reformation Stores",
-      "description": "Reformation is expanding beyond the wardrobe and into the living room, unveiling its first-ever rug collection in collaboration with French label Les Editions de Tapis. Having worked together for several years on the rugs found inside Reformation stores, the partnership is now gi",
-      "link": "https://hypebae.com/2026/11/reformation-interiors-homeware-rugs-carpets-collaboration-les-editions-de-tapis-where-to-buy",
-      "source": "Hypebae",
-      "publishedAt": "Mon, 09 Nov 2026 16:50:30 +0000",
-      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fbae.hypebeast.com%2Ffiles%2F2026%2F11%2F09%2FSingle-Image-892.jpg?w=800&cbr=1&q=90&fit=max",
+      "publishedAt": "Tue, 10 Nov 2026 20:55:31 +0000",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fbae.hypebeast.com%2Ffiles%2F2026%2F11%2F10%2Fhalfdays-guest-in-residence-ski-skiwear-knitwear-collab-info-where-to-buy-ft.jpg?w=800&cbr=1&q=90&fit=max",
       "tag": "collab"
     },
     {
       "id": "aHR0cHM6Ly93d3cu",
-      "title": "Growing pains: MAXCo. gets dressed for autumn",
-      "description": "This story is taken from the autumn 2026 issue of Dazed, which is on sale now. Buy your copy of the magazine here.\n\r\n\r\nread more raquo;\nnbsp;nbsp;nbsp;nbsp;nbsp;nbsp;\nView Gallery (9 images)nbsp;",
-      "link": "https://www.dazeddigital.com/fashion/article/71180/1/growing-pains-johnny-jordan-growing-pains-of-adolescence-autumn-2026?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=growing-pains-maxco-gets-dressed-for-autumn",
-      "source": "Dazed",
-      "publishedAt": "2026-11-09T16:43:00.000Z",
-      "image": "https://images-prod.dazeddigital.com/786/azure/dazed-prod/1450/7/1457686.jpg",
+      "title": "5 Expert Habits to Find Inner Peace from Best-Selling Author Yung Pueblo",
+      "description": "The author of the newly released Journey: The Year That Changes Everything, shares how he centers himself with gratitude and long walks.",
+      "link": "https://www.gq.com/story/yung-pueblo-expert-habits",
+      "source": "GQ",
+      "publishedAt": "Tue, 10 Nov 2026 18:50:53 +0000",
+      "image": "https://media.gq.com/photos/6af234699bcf7cd7090137fd/master/pass/Yung%20Pueblo.jpg",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly9oeXBl",
+      "title": "Simone Rocha and Crocs Unveil Their Final Collaboration",
+      "description": "Simone Rocha and Crocs are bowing out with a grand finale, unveiling the sixth and final chapter of their highly-coveted collaborative partnership. Closing the book on a union that redefined the boundaries between the avant-garde, romance and utilitarian footwear, the final drop ",
+      "link": "https://hypebae.com/2026/11/simone-rocha-crocs-collaboration-ballerina-platform-clogs-release-info-where-to-buy",
+      "source": "Hypebae",
+      "publishedAt": "Tue, 10 Nov 2026 17:50:56 +0000",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fbae.hypebeast.com%2Ffiles%2F2026%2F11%2F10%2Fsimone-rocha-crocs-collaboration-ballerina-platform-clogs-release-info-where-to-buy-1.jpg?w=800&cbr=1&q=90&fit=max",
+      "tag": "collab"
+    },
+    {
+      "id": "aHR0cHM6Ly9oeXBl",
+      "title": "UGG and Aimé Leon Dore Launch Their First-Ever Collaboration",
+      "description": "UGG and Aimé Leon Dore have officially joined forces for their first-ever collaboration, bringing the West Coast's easy-going style to New York. The inaugural drop introduces the UGG ALD Slipper, a premium slip-on silhouette engineered to transition effortlessly from relaxed indo",
+      "link": "https://hypebae.com/2026/11/ugg-aime-leon-dore-ald-slipper-collaboration-release-date-where-to-buy",
+      "source": "Hypebae",
+      "publishedAt": "Tue, 10 Nov 2026 17:38:16 +0000",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fbae.hypebeast.com%2Ffiles%2F2026%2F11%2F10%2Fugg-aime-leon-dore-ald-slipper-collaboration-release-date-where-to-buy-ft-1.jpg?w=800&cbr=1&q=90&fit=max",
+      "tag": "collab"
+    },
+    {
+      "id": "aHR0cHM6Ly9oeXBl",
+      "title": "From Front Rows to the Pitch, Jaedyn Shaw Is in a League of Her Own",
+      "description": "Jaedyn Shaw is one-of-one. The 21-year-old NWSL phenom started her career at only 17 with the San Diego Wave, and quickly became one of the biggest names in both the league and the United States Women's National Team. In the years since her debut, she has earned an Olympic gold m",
+      "link": "https://hypebae.com/2026/11/jaedyn-shaw-gotham-fc-interview-nwsl-playoffs-championship-uswnt-fashion-world-cup",
+      "source": "Hypebae",
+      "publishedAt": "Tue, 10 Nov 2026 17:12:02 +0000",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fbae.hypebeast.com%2Ffiles%2F2026%2F11%2F10%2Fjaedyn-shaw-gotham-fc-interview-nwsl-playoffs-championship-uswnt-fashion-world-cup-ft.jpg?w=800&cbr=1&q=90&fit=max",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "Fall Style Starts With adidas and the Essentials for Cooler Days",
+      "description": "As the days get shorter and temperatures begin to dip, fall brings a fresh opportunity to rethink everyday style. Lightweight layers give way to…\nThe post Fall Style Starts With adidas and the Essentials for Cooler Days appeared first on Nice Kicks.",
+      "link": "https://www.nicekicks.com/fall-style-starts-with-adidas/",
+      "source": "Nice Kicks",
+      "publishedAt": "Tue, 10 Nov 2026 16:44:32 +0000",
+      "image": "https://www.nicekicks.com/files/2026/11/imgi_41_xcat_fw26_holiday_oct_htt_orig_tcc_d_e2806cd349.jpeg",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "AnOther Man Launches Its Pieter Hugo and Adidas Originals Cover at DSM",
+      "description": "For the latest issue of AnOther Man, Pieter Hugo photographs Grace Wales Bonner’s Autumn/Winter 2026 collection with Adidas Originals in Nature’s Valley on coast of South Africa. The cover launched last week with a celebration at Dover Street Market",
+      "link": "https://www.anothermag.com/another-man/17632/pieter-hugo-another-man-grace-wales-bonner-adidas-original-dover-street-market",
+      "source": "AnOther",
+      "publishedAt": "Tue, 10 Nov 2026 15:01:00 Z",
+      "image": "https://images-prod.anothermag.com/3000/0-0-3000-2000/azure/another-prod/480/0/480229.jpg",
+      "tag": "editorial"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "The Other Room: Hanna Moon and Moffy Gathorne-Hardy’s New Creative Agency",
+      "description": "As the photographer and writer launch their women-only agency The Other Room, they discuss the importance of transgression, financial freedom and rebelling against the system",
+      "link": "https://www.anothermag.com/art-photography/17631/the-other-room-hanna-moon-moffy-gathorne-hardy-creative-agency-interview",
+      "source": "AnOther",
+      "publishedAt": "Tue, 10 Nov 2026 13:25:00 Z",
+      "image": "https://images-prod.anothermag.com/605/0-178-605-403/azure/another-prod/480/0/480230.jpg",
+      "tag": "editorial"
+    },
+    {
+      "id": "aHR0cHM6Ly9mdWNr",
+      "title": "Tant d’Avenir and Notes de Bas de Paje Present Filigrane",
+      "description": "Tant d'Avenir and Notes de Bas de Paje have collaborated on Filigrane, a project built around a fragrance and a piece of jewellery.\nThe post Tant d’Avenir and Notes de Bas de Paje Present Filigrane appeared first on Fucking Young!.",
+      "link": "https://fuckingyoung.es/tant-davenir-and-notes-de-bas-de-paje-present-filigrane/",
+      "source": "Fucking Young",
+      "publishedAt": "Tue, 10 Nov 2026 01:31:32 +0000",
+      "image": "https://fuckingyoung.es/wp-content/uploads/2026/10/4-6.jpg",
       "tag": "editorial"
     },
     {
@@ -564,16 +604,6 @@
       "tag": "editorial"
     },
     {
-      "id": "aHR0cHM6Ly9oeXBl",
-      "title": "Supreme x Elliott Smith Fall 2026 Collaboration Collection",
-      "description": "Supreme is honoring Elliott Smith with a new Supreme x Elliott Smith collection, created with the permission of the late singer-songwriter’s estate for Fall 2026. The capsule includes outerwear, fleece, layering pieces and accessories. Archival-feeling photography and album refer",
-      "link": "https://hypebeast.com/2026/11/supreme-elliott-smith-fall-2026-collection-release-info",
-      "source": "Hypebeast",
-      "publishedAt": "Mon, 09 Nov 2026 14:00:33 +0000",
-      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F09%2Fsupreme-elliott-smith-fall-2026-collection-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
-      "tag": "collab"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cu",
       "title": "Nike Air Foamposite One “Mummy” December 2026 Release Date & Info",
       "description": "The Nike Air Foamposite One “Mummy” is finally releasing on December 5, 2026, via SNKRS and select retailers for $250. Do you prefer the…\nThe post Nike Air Foamposite One “Mummy” December 2026 Release Date & Info appeared first on Nice Kicks.",
@@ -584,64 +614,84 @@
       "tag": null
     },
     {
-      "id": "aHR0cHM6Ly93d3cu",
-      "title": "Nike Mind 001 WMNS “Summit White”",
-      "description": "The Nike Mind 001 WMNS “Summit White” will be restocking on November 5, 2026, via Nike and select retailers for $95. Check out the photos below…\nThe post Nike Mind 001 WMNS “Summit White” appeared first on Nice Kicks.",
-      "link": "https://www.nicekicks.com/nike-mind-001-wmns-summit-white-hq4309-101/",
-      "source": "Nice Kicks",
-      "publishedAt": "Tue, 03 Nov 2026 16:37:44 +0000",
-      "image": "https://www.nicekicks.com/files/2026/08/hq4309-101-1-e1787072626688.jpg",
-      "tag": null
-    },
-    {
-      "id": "aHR0cHM6Ly9zbmVh",
-      "title": "Cherry Blossoms Bloom On The Nike Sabrina 4 “Guava Ice”",
-      "description": "What if Sabrina Ionescu’s signature line flopped? Would Nike stay as focused on women’s sports as it is right now? Would A’ja Wilson get a...\t\t\n© Sneaker News, 2026. |\nPermalink\nNo comment\ndel.icio.us\nThe post Cherry Blossoms Bloom On The Nike Sabrina 4 “Guava Ice”\nSneaker News. ",
-      "link": "https://sneakernews.com/2026/11/09/nike-sabrina-4-guava-ice-light-atomic-pink-lime-blast-black-ii0402-800/",
-      "source": "Sneaker News",
-      "publishedAt": "Mon, 09 Nov 2026 23:00:48 +0000",
-      "image": null,
-      "tag": null
-    },
-    {
-      "id": "aHR0cHM6Ly9zbmVh",
-      "title": "The Air Jordan 4 “Bred” Returns On Black Friday. Here’s What To Know.",
-      "description": "They’re back. The Air Jordan 4 “Bred,” just two years after a “Reimagined” release that’s become the subject of some debate, returns in true original...\t\t\n© Sneaker News, 2026. |\nPermalink\nNo comment\ndel.icio.us\nThe post The Air Jordan 4 “Bred” Returns On Black Friday. Here’s Wha",
-      "link": "https://sneakernews.com/2026/11/09/air-jordan-4-bred-release-date/",
-      "source": "Sneaker News",
-      "publishedAt": "Mon, 09 Nov 2026 23:00:29 +0000",
+      "id": "aHR0cHM6Ly9uZXdz",
+      "title": "Delaney Rowe Brings the Drama in J.Crew’s Festive Holiday Campaign, Plus More 2025 Fashion Launches - People.com",
+      "description": "Delaney Rowe Brings the Drama in J.Crew’s Festive Holiday Campaign, Plus More 2025 Fashion Launches  People.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdlRGNVhabkNqTzhMbDlYNEdYalNlYURvMUJqd25wOGNSN1gwZkxYZUdtbnczUzlPR3phSjY1WFpBWUVUdEl4N0FKSkl6TGVwak1SRk9UT1dDdWZTd0RfWFJDMVhJZExWNGZUVTl5UlNSdl9oYnUtMjE3OUdUNE0tWlFwbnR6RHgtYzVGU1p5X0szenQyTzBiZDIwMWY?oc=5",
+      "source": "New Fashion Collabs",
+      "publishedAt": "Thu, 18 Dec 2025 08:00:00 GMT",
       "image": null,
       "tag": null
     },
     {
       "id": "aHR0cHM6Ly93d3cu",
-      "title": "Nike's Stacked Air Max Is a Red Velvet Cake in Sneaker Form",
-      "description": "Nike's Air Max Muse \"Mystic Dates\" sneaker marries cozy textures with a rich burgundy color scheme for a delicious fall release.",
-      "link": "https://www.highsnobiety.com/p/nike-air-max-muse-mystic-dates/",
+      "title": "Vans’ Peachy Sneaker Is a Winterized Stomper With Summer Steez",
+      "description": "Vans drops a Half Cab GORE-TEX sneaker in pink suede, bringing pretty summer vibes to the winterized model.",
+      "link": "https://www.highsnobiety.com/p/vans-half-cab-gore-tex-warm-blush/",
       "source": "Highsnobiety",
-      "publishedAt": "Mon, 09 Nov 2026 22:11:39 GMT",
-      "image": "https://www.highsnobiety.com/static-assets/dato/1794247705-nike-air-max-muse-mystic-dates-0.jpg",
+      "publishedAt": "Tue, 10 Nov 2026 21:14:39 GMT",
+      "image": "https://www.highsnobiety.com/static-assets/dato/1794334524-vans-half-cab-gore-tex-warm-blush-0.jpg",
       "tag": null
     },
     {
       "id": "aHR0cHM6Ly9zbmVh",
-      "title": "The Jordan Tatum 5 Packs A Punch In “Fierce Pink”",
-      "description": "This year’s FIFA World Cup was a prime example. Bright monotone footwear is what stands out the most on TV, and that’s not at all...\t\t\n© Sneaker News, 2026. |\nPermalink\nNo comment\ndel.icio.us\nThe post The Jordan Tatum 5 Packs A Punch In \"Fierce Pink\"\nSneaker News. \nThe post The J",
-      "link": "https://sneakernews.com/2026/11/09/jordan-tatum-5-fierce-pink-neo-pink-pink-pow-io1746-600/",
+      "title": "The adidas ZX 8000 “Made In Germany” Returns In Grey",
+      "description": "adidas’ “Made In Germany” line continues to pump out premium takes on iconic silhouettes, perhaps none more relevant to Germany’s trainer scene than the adidas...\t\t\n© Sneaker News, 2026. |\nPermalink\nNo comment\ndel.icio.us\nThe post The adidas ZX 8000 \"Made In Germany\" Returns In G",
+      "link": "https://sneakernews.com/2026/11/10/adidas-zx-8000-made-in-germany-kz8466/",
       "source": "Sneaker News",
-      "publishedAt": "Mon, 09 Nov 2026 22:00:48 +0000",
+      "publishedAt": "Tue, 10 Nov 2026 21:00:54 +0000",
       "image": null,
       "tag": null
     },
     {
-      "id": "aHR0cHM6Ly9oeXBl",
-      "title": "HAVEN and Converse Rework the Chuck 70 in Textured Cashmere Suede",
-      "description": "Summary\nHAVEN and Converse have officially unveiled a collaborative Chuck 70 inspired by tactile craftsmanshipThe silhouette features smooth cashmere suede contrasting hairy suede a leather toe cap and a lateral side zipperThe sneaker releases on November 12 via HAVEN before arri",
-      "link": "https://hypebeast.com/2026/11/haven-converse-chuck-70-reworked-textured-cashmere-suede-collaboration-release-info",
-      "source": "Hypebeast",
-      "publishedAt": "Mon, 09 Nov 2026 17:00:49 +0000",
-      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F09%2Fhaven-converse-chuck-70-reworked-textured-cashmere-suede-collaboration-release-info-000.jpg?w=800&cbr=1&q=90&fit=max",
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "A Brown adidas Gazelle So Simple, It’s Perfect",
+      "description": "ÉDIFICE & IÉNA drop a collaborative adidas Gazelle Lo Pro sneaker in luxe brown suede. Here's everything on the stylish release.",
+      "link": "https://www.highsnobiety.com/p/edifice-iena-adidas-gazelle-lo-pro/",
+      "source": "Highsnobiety",
+      "publishedAt": "Tue, 10 Nov 2026 20:40:39 GMT",
+      "image": "https://www.highsnobiety.com/static-assets/dato/1794334378-edifice-iena-adidas-gazelle-lo-pro-0.jpg",
       "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cu",
+      "title": "Nike's Extra-Clean Air Max Soccer Shoe Is the Best of Both Worlds",
+      "description": "Nike releases an Air Max Joga Bonito sneaker in \"Black/Medium Fuchsia,\" resulting in yet another clean iteration of the hybrid model.",
+      "link": "https://www.highsnobiety.com/p/nike-air-max-joga-bonito-black-medium-fuchsia/",
+      "source": "Highsnobiety",
+      "publishedAt": "Tue, 10 Nov 2026 20:26:40 GMT",
+      "image": "https://www.highsnobiety.com/static-assets/dato/1794334254-nike-air-max-joga-bonito-black-medium-fuschia-0.jpg",
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly9zbmVh",
+      "title": "Say Goodbye To The Air Jordan 1 High OG GRs In 2027",
+      "description": "Jordan Brand is reportedly putting the Air Jordan 1 High OG on ice, stepping away from traditional general releases of the iconic silhouette for the...\t\t\n© Sneaker News, 2026. |\nPermalink\nNo comment\ndel.icio.us\nThe post Say Goodbye To The Air Jordan 1 High OG GRs In 2027\nSneaker ",
+      "link": "https://sneakernews.com/2026/11/10/air-jordan-1-high-og-2027/",
+      "source": "Sneaker News",
+      "publishedAt": "Tue, 10 Nov 2026 20:10:12 +0000",
+      "image": null,
+      "tag": null
+    },
+    {
+      "id": "aHR0cHM6Ly9zbmVh",
+      "title": "Juntae Kim’s First ASICS Collaboration Takes Inspiration From Decaying Flowers",
+      "description": "Following an initial announcement earlier this summer, Juntae Kim’s inaugural ASICS collaboration is ready for launch. The eponymous South Korean imprint stakes claim to three...\t\t\n© Sneaker News, 2026. |\nPermalink\nNo comment\ndel.icio.us\nThe post Juntae Kim's First ASICS Collabor",
+      "link": "https://sneakernews.com/2026/11/10/juntae-kim-asics-gel-kinetic-fr-release-date/",
+      "source": "Sneaker News",
+      "publishedAt": "Tue, 10 Nov 2026 19:00:31 +0000",
+      "image": null,
+      "tag": "collab"
+    },
+    {
+      "id": "aHR0cHM6Ly9mdWNr",
+      "title": "Story mfg. and ASICS Celebrate the Joy of Rambling With a New Sneaker Collaboration",
+      "description": "Story mfg. and ASICS reunite for the GEL-TRANSCEND™ FJ, a hiking-inspired sneaker collaboration celebrating rambling and individual expression.\nThe post Story mfg. and ASICS Celebrate the Joy of Rambling With a New Sneaker Collaboration appeared first on Fucking Young!.",
+      "link": "https://fuckingyoung.es/story-mfg-and-asics-celebrate-the-joy-of-rambling-with-a-new-sneaker-collaboration/",
+      "source": "Fucking Young",
+      "publishedAt": "Tue, 10 Nov 2026 01:43:32 +0000",
+      "image": "https://fuckingyoung.es/wp-content/uploads/2026/11/FARMERS5.jpg",
+      "tag": "collab"
     },
     {
       "id": "aHR0cHM6Ly93d3cu",
